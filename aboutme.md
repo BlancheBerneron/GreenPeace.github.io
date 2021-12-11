@@ -3,7 +3,7 @@ layout: page
 title: About Us
 subtitle: Who we are
 ---
-![GP](https://www.google.com/search?q=greenpeace&source=lnms&tbm=isch&sa=X&ved=2ahUKEwin39jUzNv0AhUVRuUKHRXICuEQ_AUoAXoECAIQAw&biw=1440&bih=678&dpr=2#imgrc=mmI3hbwKk3mDlM){: .mx-auto.d-block :}
+![GP](https://www.greenpeace.ch/static/planet4-switzerland-stateless/2019/05/bf050253-gp1stpmf_high_res-e1558096302432.jpg){: .mx-auto.d-block :}
 ### Venia,  Blanche, Sandra, Belen 
 
 

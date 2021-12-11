@@ -4,6 +4,6 @@ title: About Us
 subtitle: Who we are
 ---
 
-### Venia ### Blanche ### Sandra ### Belen 
+### Venia,  Blanche, Sandra, Belen 
 
 

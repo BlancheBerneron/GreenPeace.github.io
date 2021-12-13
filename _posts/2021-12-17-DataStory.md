@@ -5,6 +5,12 @@ subtitle: What is/are the best way(s) to raise concern about climate change thro
 comments: false
 ---
 
+## Where are we standing? 
+
+## Why it is important to take action NOW, and thus why it is important to create a campain? 
+
+## Let’s check what the data of quotes says! 
+
 
 
 **Here is some bold text**

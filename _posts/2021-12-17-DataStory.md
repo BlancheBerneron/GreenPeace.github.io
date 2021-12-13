@@ -22,6 +22,8 @@ If you encounter climate skeptics in your way, you will find useful arguments [h
 
 All these previous scientestics facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, stimulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. 
 
+## What are the first question to ask ourself? 
+
 
 
 ## Let’s check what the data of quotes says! 

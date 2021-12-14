@@ -5,7 +5,7 @@ subtitle: Faced with the climate emergency, speeches are not enough.
 use-site-title: true
 ---
 
-## Where are we standing? 
+## Where are we standing and why it is important to create campains? 
 
 >“Global warming is likely to be the greatest threat of the 21st century.” 
 
@@ -17,12 +17,17 @@ At the pace of current CO2 emissions, scientists expect an increase of between 1
 
 If you encounter climate skeptics in your way, you will find useful arguments [here](https://350.org/fr/). 
 
-## Why it is important to create campains? 
-
 All these previous scientestics facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, stimulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. 
 
-## Key Insights (Research Question) or answer of the research question 
+## Goal
 
+We want to create a productive awarness campaign about Climate Change. Thanks to "" data base and open accessible data our goal is to understand how Climate Change topic related is appropriated by sociaty in the last 5 years. In other words, when do we talk about it, who and in which platform? This article should serve as a head start for people searching how to target the Climate Change awarness campain.
+
+## Key Insights (Research Question) or answer of the research question 
+During this article we will find: 
+ - What are the topics that triggers conversation about CC. 
+ - Barack Obama seems the guru of... Who is talking about it in the media. .....
+....
 Let’s check what the data of quotes says! 
 
 ## Which events triggers conversion about Climate Change? 
@@ -33,4 +38,26 @@ GRAPH Time VS number of quotes
 
 We observe already 3 straigth forward pics and a periode of lots of variation. By searching online we observe cosality, by introducing the 
 
+### What are the relationship between trigerring events? 
+
+This could already give us a hint of topics that people are interestd about! 
+
+
+## Who talks about Climate Change? 
+Let's now look into people that are mosted quoted in relation of CLimate Change from past 5 years. 
+
+Mosted quoted people in an absolute value are.... 
+If indeed, if this time we use the proportion will all dataset we observe that:...
+
+Do you see a trend? 
+
+We will help you: 
+Most people quoted seems to be politicals. Indeed the following graph will shows you what are the occupation of most quoted people. 
+
+
+(tals about politics? Embedding? ) 
+
+Ok, so in conclusion if you are  politic with this and this age nationality and , be sure that you will be hearded. 
+## What are the medias that publish the most Climate Change related topic? 
+Finally, what will be the most eficient media to talk about CC? 
 

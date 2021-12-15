@@ -106,6 +106,10 @@ Most people quoted seem to be political. Indeed the following graph will show yo
 Ok, so in conclusion if you are  politic with this and this age nationality and , be sure that you will be hearded. 
 ## What are the medias that publish the most Climate Change related topic? 
 Finally, what will be the most eficient media to talk about CC? 
+ 
+<script>
+includeHTML();
+</script> 
 
 
 

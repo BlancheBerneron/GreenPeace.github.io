@@ -74,7 +74,6 @@ Most quoted people in absolute value are…
   <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
   <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
   <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
-  
  </table>
 
 If indeed, if this time we use the proportion of all dataset we observe that:
@@ -91,7 +90,8 @@ If indeed, if this time we use the proportion of all dataset we observe that:
   <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
   <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
   <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
-
+ </table>
+ 
 Do you see a trend?
 
 We will help you: 

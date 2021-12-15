@@ -66,26 +66,31 @@ Most quoted people in absolute value are…
   <tr><th>Index</th> <th>Speaker</th>              <th># In Count</th></tr>
   <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>
   <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td></tr>
-</table>
+  <tr><td> 3 </td>   <td> António Guterres </td>       <td> 5134</td></tr>
+  <tr><td> 4 </td>   <td> Bernie Sanders </td>       <td> 4256</td></tr>
+  <tr><td> 5 </td>   <td> Justin Trudeau </td>       <td> 4129</td></tr>
+  <tr><td> 6 </td>   <td> Jerry Brown </td>       <td> 3732</td></tr>
+  <tr><td> 7 </td>   <td> Jay Inslee </td>       <td> 3290</td></tr>
+  <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
+  <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
+  <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
+  
+ </table>
 
 If indeed, if this time we use the proportion of all dataset we observe that:
 
-<div align = "center">
-  
-| Index | Speaker | Count |
-| :------ |:--- | :--- |
-| 1 | Barack Obama | 12922 |
-| 2 | Donald Trump 	 | 5464 |
-| 3 | António Guterres | 5134 |
-| 4 | Bernie Sanders | 4256 |
-| 5 | Justin Trudeau | 4129 |
-| 6 | Jerry Brown 	 | 3732 |
-| 7 | Jay Inslee | 3290 |
-| 8 | Bill Shorten | 3137 |
-| 9 | Michael Mann | 2958 |
-| 10 | Narendra Modi | 2584 |
-  
-</div>
+<table style="margin-left: auto; margin-right: auto; align="center"; align="center"">
+  <tr><th>Index</th> <th>Speaker</th>              <th># In Count</th></tr>
+  <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>
+  <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td></tr>
+  <tr><td> 3 </td>   <td> António Guterres </td>       <td> 5134</td></tr>
+  <tr><td> 4 </td>   <td> Bernie Sanders </td>       <td> 4256</td></tr>
+  <tr><td> 5 </td>   <td> Justin Trudeau </td>       <td> 4129</td></tr>
+  <tr><td> 6 </td>   <td> Jerry Brown </td>       <td> 3732</td></tr>
+  <tr><td> 7 </td>   <td> Jay Inslee </td>       <td> 3290</td></tr>
+  <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
+  <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
+  <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
 
 Do you see a trend?
 

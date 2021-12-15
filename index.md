@@ -38,6 +38,7 @@ We wanted to have as much data as possible to have an accurate analysis. So we b
 
 {: .box-note}
 **Assumption:** There is a linear relationship between quotes and articles in online newspapers. 
+
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
 
 GRAPH Time VS number of quotes
@@ -60,45 +61,12 @@ Let’s now look into people that are most quoted in relation to Climate Change 
 
 Most quoted people in absolute value are…
 
-<div align = "center">
-  
-| Index | Speaker | Count |
-| :------ |:--- | :---: |
-| 1 | Barack Obama | 12922 |
-| 2 | Donald Trump 	 | 5464 |
-| 3 | António Guterres | 5134 |
-| 4 | Bernie Sanders | 4256 |
-| 5 | Justin Trudeau | 4129 |
-| 6 | Jerry Brown 	 | 3732 |
-| 7 | Jay Inslee | 3290 |
-| 8 | Bill Shorten | 3137 |
-| 9 | Michael Mann | 2958 |
-| 10 | Narendra Modi | 2584 |
-  
-</div>
 
- <table class="center">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table> 
+<table style="margin-left: auto; margin-right: auto; align="center"; align="center"">
+  <tr><th>Item</th>           <th>Price</th>      <th># In stock</th></tr>
+  <tr><td>Juicy Apples</td>   <td>1.99</td>       <td>739</td></tr>
+  <tr><td>Bananas</td>        <td>1.89</td>       <td>6</td></tr>
+</table>
 
 If indeed, if this time we use the proportion of all dataset we observe that:
 

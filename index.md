@@ -44,6 +44,10 @@ GRAPH Time VS number of quotes
 
 We observe already 3 straigth forward pics and a periode of lots of variation. By searching online we observe cosality, by introducing the 
 
+### What are the topic trough time? 
+
+<iframe src='https://flo.uri.sh/visualisation/8142851/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8142851/?utm_source=embed&utm_campaign=visualisation/8142851' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 ### What are the relationship between trigerring events? 
 
 This could already give us a hint of topics that people are interestd about! 
@@ -55,7 +59,7 @@ Let’s now look into people that are most quoted in relation to Climate Change 
 
 Most quoted people in absolute value are…
 
-<center>
+<div align = "center">
   
 | Index | Speaker | Count |
 | :------ |:--- | :---: |
@@ -70,7 +74,7 @@ Most quoted people in absolute value are…
 | 9 | Michael Mann | 2958 |
 | 10 | Narendra Modi | 2584 |
   
-</center>
+</div>
 
 If indeed, if this time we use the proportion of all dataset we observe that:
 
@@ -104,4 +108,6 @@ Most people quoted seem to be political. Indeed the following graph will show yo
 Ok, so in conclusion if you are  politic with this and this age nationality and , be sure that you will be hearded. 
 ## What are the medias that publish the most Climate Change related topic? 
 Finally, what will be the most eficient media to talk about CC? 
+
+
 

@@ -46,7 +46,9 @@ GRAPH Time VS number of quotes
 We observe already 3 straigth forward pics and a periode of lots of variation. By searching online we observe cosality, by introducing the 
 
 ### What are the topic trough time? 
- 
+
+<div>
+<iframe src='https://flo.uri.sh/visualisation/8142851/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
  <div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8142851/?utm_source=embed&utm_campaign=visualisation/8142851' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a>
 </div>
 
@@ -60,7 +62,6 @@ This could already give us a hint of topics that people are interestd about!
 Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
 
 Most quoted people in absolute value are…
-
 
 <table style="margin-left: auto; margin-right: auto; align="center"; align="center"">
   <tr><th>Index</th> <th>Speaker</th>              <th># In Count</th></tr>
@@ -79,23 +80,26 @@ Most quoted people in absolute value are…
 If indeed, if this time we use the proportion of all dataset we observe that:
 
 <table style="margin-left: auto; margin-right: auto; align="center"; align="center"">
-  <tr><th>Index</th> <th>Speaker</th>              <th># In Count</th></tr>
-  <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>
-  <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td></tr>
-  <tr><td> 3 </td>   <td> António Guterres </td>       <td> 5134</td></tr>
-  <tr><td> 4 </td>   <td> Bernie Sanders </td>       <td> 4256</td></tr>
-  <tr><td> 5 </td>   <td> Justin Trudeau </td>       <td> 4129</td></tr>
-  <tr><td> 6 </td>   <td> Jerry Brown </td>       <td> 3732</td></tr>
-  <tr><td> 7 </td>   <td> Jay Inslee </td>       <td> 3290</td></tr>
-  <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
-  <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
-  <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
+ <tr><th>Index</th> <th>Speaker</th>              <th># In Count</th></tr>
+ <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>
+ <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td></tr>
+ <tr><td> 3 </td>   <td> António Guterres </td>       <td> 5134</td></tr>
+ <tr><td> 4 </td>   <td> Bernie Sanders </td>       <td> 4256</td></tr>
+ <tr><td> 5 </td>   <td> Justin Trudeau </td>       <td> 4129</td></tr>
+ <tr><td> 6 </td>   <td> Jerry Brown </td>       <td> 3732</td></tr>
+ <tr><td> 7 </td>   <td> Jay Inslee </td>       <td> 3290</td></tr>
+ <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
+ <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
+ <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
  </table>
  
 Do you see a trend?
 
 We will help you: 
+ 
+ ADD A IMAGE WITH PLOT OF DIFFERENTS FEATURES 
 The “type” person that is most quoted about the climate change is: 
+ 
 ADD IMAGE PEARSON WITH PIE CHARTS OF OCCUPATION, SEX, NATIONALITY,  RACE AND RELEGION
 
 Most people quoted seem to be political. Indeed the following graph will show you what the occupation of most quoted people is. But let’s go further 

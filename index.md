@@ -55,8 +55,10 @@ Let’s now look into people that are most quoted in relation to Climate Change 
 
 Most quoted people in absolute value are…
 
+<center>
+  
 | Index | Speaker | Count |
-| :------ |:--- | :--- |
+| :------ |:--- | :---: |
 | 1 | Barack Obama | 12922 |
 | 2 | Donald Trump 	 | 5464 |
 | 3 | António Guterres | 5134 |
@@ -67,9 +69,13 @@ Most quoted people in absolute value are…
 | 8 | Bill Shorten | 3137 |
 | 9 | Michael Mann | 2958 |
 | 10 | Narendra Modi | 2584 |
+  
+</center>
 
 If indeed, if this time we use the proportion of all dataset we observe that:
 
+<center>
+  
 | Index | Speaker | Count |
 | :------ |:--- | :--- |
 | 1 | Barack Obama | 12922 |
@@ -82,7 +88,8 @@ If indeed, if this time we use the proportion of all dataset we observe that:
 | 8 | Bill Shorten | 3137 |
 | 9 | Michael Mann | 2958 |
 | 10 | Narendra Modi | 2584 |
-
+  
+</center>
 Do you see a trend?
 
 We will help you: 

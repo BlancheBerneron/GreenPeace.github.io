@@ -5,7 +5,7 @@ subtitle: Faced with the climate emergency, speeches are not enough.
 use-site-title: true
 ---
 
-## Where are we standing and why it is important to create campains? 
+# Where are we standing and why it is important to create campains? 
 
 >“Global warming is likely to be the greatest threat of the 21st century.” 
 
@@ -19,22 +19,22 @@ If you encounter climate skeptics in your way, you will find useful arguments [h
 
 All these previous scientestics facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, stimulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. 
 
-### Goal
+## Goal
 
 We want to create a productive awareness campaign about Climate Change. Thanks to “Quotebank '' database and open accessible data, our goal is to understand how the Climate Change topic has been appropriated by society in the last 5 years. In other words, when do we talk about it, who and in which platform? This article should serve as a head start for people searching how to target the Climate Change awareness campaign.
 
-### Key Insights (Research Question) or answer of the research question
+## Key Insights (Research Question) or answer of the research question
 During this article we will find:
 What are the topics that trigger conversation about CC.
 Barack Obama seems the guru of… Who is talking about it in the media. ….. …. Let’s check what the data of quotes says!
 
-### How we did it
+## How we did it
 We wanted to have as much data as possible to have an accurate analysis. So we built our dataset from:
 
 ### Let’s check now what the data has to say. 
 
 
-## Which events triggers conversion about Climate Change? 
+# Which events triggers conversion about Climate Change? 
 
 {: .box-note}
 **Assumption:** There is a linear relationship between quotes and articles in online newspapers. 

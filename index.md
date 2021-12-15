@@ -35,6 +35,7 @@ We wanted to have as much data as possible to have an accurate analysis. So we b
 
 
 ## Which events triggers conversion about Climate Change? 
+
 {: .box-note}
 **Assumption:** There is a linear relationship between quotes and articles in online newspapers. 
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 

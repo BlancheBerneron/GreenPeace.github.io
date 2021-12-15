@@ -19,19 +19,24 @@ If you encounter climate skeptics in your way, you will find useful arguments [h
 
 All these previous scientestics facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, stimulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. 
 
-## Goal
+### Goal
 
-We want to create a productive awarness campaign about Climate Change. Thanks to "" data base and open accessible data our goal is to understand how Climate Change topic related is appropriated by sociaty in the last 5 years. In other words, when do we talk about it, who and in which platform? This article should serve as a head start for people searching how to target the Climate Change awarness campain.
+We want to create a productive awareness campaign about Climate Change. Thanks to “Quotebank '' database and open accessible data, our goal is to understand how the Climate Change topic has been appropriated by society in the last 5 years. In other words, when do we talk about it, who and in which platform? This article should serve as a head start for people searching how to target the Climate Change awareness campaign.
 
-## Key Insights (Research Question) or answer of the research question 
-During this article we will find: 
- - What are the topics that triggers conversation about CC. 
- - Barack Obama seems the guru of... Who is talking about it in the media. .....
-....
-Let’s check what the data of quotes says! 
+### Key Insights (Research Question) or answer of the research question
+During this article we will find:
+What are the topics that trigger conversation about CC.
+Barack Obama seems the guru of… Who is talking about it in the media. ….. …. Let’s check what the data of quotes says!
+
+### How we did it
+We wanted to have as much data as possible to have an accurate analysis. So we built our dataset from:
+
+### Let’s check now what the data has to say. 
+
 
 ## Which events triggers conversion about Climate Change? 
-**Assumption** There is a linear relationship between quotes and articles in online newspapers. 
+{: .box-note}
+**Assumption:** There is a linear relationship between quotes and articles in online newspapers. 
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
 
 GRAPH Time VS number of quotes
@@ -44,15 +49,46 @@ This could already give us a hint of topics that people are interestd about!
 
 
 ## Who talks about Climate Change? 
-Let's now look into people that are mosted quoted in relation of CLimate Change from past 5 years. 
 
-Mosted quoted people in an absolute value are.... 
-If indeed, if this time we use the proportion will all dataset we observe that:...
+Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
 
-Do you see a trend? 
+Most quoted people in absolute value are…
+
+| Index | Speaker | Count |
+| :------ |:--- | :--- |
+| 1 | Barack Obama | 12922 |
+| 2 | Donald Trump 	 | 5464 |
+| 3 | António Guterres | 5134 |
+| 4 | Bernie Sanders | 4256 |
+| 5 | Justin Trudeau | 4129 |
+| 6 | Jerry Brown 	 | 3732 |
+| 7 | Jay Inslee | 3290 |
+| 8 | Bill Shorten | 3137 |
+| 9 | Michael Mann | 2958 |
+| 10 | Narendra Modi | 2584 |
+
+If indeed, if this time we use the proportion of all dataset we observe that:
+
+| Index | Speaker | Count |
+| :------ |:--- | :--- |
+| 1 | Barack Obama | 12922 |
+| 2 | Donald Trump 	 | 5464 |
+| 3 | António Guterres | 5134 |
+| 4 | Bernie Sanders | 4256 |
+| 5 | Justin Trudeau | 4129 |
+| 6 | Jerry Brown 	 | 3732 |
+| 7 | Jay Inslee | 3290 |
+| 8 | Bill Shorten | 3137 |
+| 9 | Michael Mann | 2958 |
+| 10 | Narendra Modi | 2584 |
+
+Do you see a trend?
 
 We will help you: 
-Most people quoted seems to be politicals. Indeed the following graph will shows you what are the occupation of most quoted people. 
+The “type” person that is most quoted about the climate change is: 
+ADD IMAGE PEARSON WITH PIE CHARTS OF OCCUPATION, SEX, NATIONALITY,  RACE AND RELEGION
+
+Most people quoted seem to be political. Indeed the following graph will show you what the occupation of most quoted people is. But let’s go further 
 
 
 (tals about politics? Embedding? ) 

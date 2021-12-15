@@ -46,16 +46,7 @@ We observe already 3 straigth forward pics and a periode of lots of variation. B
 
 ### What are the topic trough time? 
 
-
-
-<object width="425" height="350">
-  <param name="movie" value="https://flo.uri.sh/visualisation/8142851/embed" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://flo.uri.sh/visualisation/8142851/embed"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/8142851"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
 ### What are the relationship between trigerring events? 
 

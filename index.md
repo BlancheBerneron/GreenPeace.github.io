@@ -18,7 +18,7 @@ At the pace of current CO2 emissions, scientists expect an increase of between 1
 
 If you encounter climate skeptics in your way, you will find useful arguments [here](https://350.org/fr/). 
 
-All these previous scientestics facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, stimulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. 
+All these previous scientific facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, simulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. 
 
 ## Goal
 
@@ -36,19 +36,8 @@ We built our dataset from Quotebank, an open corpus of 178 million quotations at
 We wanted to have as much data as possible to have an accurate analysis. So we have in total: 
 
 
-          Quotes                                Speakers                                Domains  
-          142'238                                50'154                                  6'673 
- --------- 
-
-
-{: .box-note}
-**Quotes: 142'238** 
-**Speakers: 50'154**
-**Domains: 6'673**
-
-{: .box-note}
-**Quotes          Speakers        Domains** 
-**142'238           50'154         6'673**
+       Quotes                            Speakers                            Domains  
+       142'238                            50'154                              6'673 
 
 
 #### Let’s check now what the data has to say... 
@@ -57,7 +46,7 @@ We wanted to have as much data as possible to have an accurate analysis. So we h
 <center> <h1>Which events triggers conversion about Climate Change?</h1> </center>
 
 {: .box-note}
-**Assumption:** There is a linear relationship between quotes and articles in online newspapers. 
+**Assumption:** There is a linear relationship between quotes and articles in online newspapers. Thus if we interchange both words, don't be surprised. 
 
 ### Frecuency of Climate Change Quotes 
 Graph occurences through time
@@ -73,7 +62,7 @@ Major pics are related with political reunion.
 **Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
  
 <div align="center" >
-         <img src="/assets/Topic1.jpeg" alt="drawing" width="400"/>  <img src="/assets/Topic2.jpeg" alt="drawing" width="400"/>
+         <img src="/assets/Topic1.jpeg" width="400" style="float:left"/> <img src="/assets/Topic2.jpeg"  width="400" style="float:right"/>
 </div>
 
  

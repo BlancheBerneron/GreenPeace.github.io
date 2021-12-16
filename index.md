@@ -61,8 +61,9 @@ A major pic appears in April 2017, what happend then?
 {: .box-note}
 **Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
  
-  <img src="/assets/plots/Topic1.jpeg" width="400"> 
-  <img src="/assets/plots/Topic2.jpeg"  width="400"/>
+ <!--_(Topics)!_-->
+ <img src="/assets/plots/Topic1.jpeg" width="400"> 
+ <img src="/assets/plots/Topic2.jpeg"  width="400"/>
  
 ### Is there a difference of frequency of before and after X event?
  Lalala

@@ -155,6 +155,8 @@ It seems that is not the case, but still it is a hot topic!
 
 Do you see a trend between most quoted speakers?
 
+<img title="Test" alt="Alt text" src="/assets/plots/test.png">
+
 #### We will help you: 
  
  ADD A IMAGE WITH PLOT OF DIFFERENTS FEATURES 

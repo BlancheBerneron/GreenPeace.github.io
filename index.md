@@ -50,11 +50,11 @@ We wanted to have as much data as possible to have an accurate analysis. So we h
 
 ### Frecuency of Climate Change Quotes 
 Graph occurences through time
-Do Climate Change quotes appear in the frequency though time? No! There is a heterogenouty, how come? 
+Do Climate Change quotes appear in the frequency though time? No! There is a heterogenouty, either quotes are published hundred of times in differents news papers either they appear few time. How come? 
 
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
 GRAPH Time VS number of quotes
-Major pics are related with political reunion. 
+A major pic appears in April 2017, what happend then? 
 
 ### Main Topics of Climate Change 
  
@@ -64,21 +64,25 @@ Major pics are related with political reunion.
   <img src="/assets/Topic1.jpeg" width="400"> 
   <img src="/assets/Topic2.jpeg"  width="400"/>
  
+### Is there a difference of frequency of before and after X event?
+ Lalala
+ 
 ### Topic Trough time
  
 <iframe src='https://flo.uri.sh/visualisation/8142851/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8142851/?utm_source=embed&utm_campaign=visualisation/8142851' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-### What are the relationship between trigerring events? 
 
 This could already give us a hint of topics that people are interestd about! 
+
+Are there topics that appear in pattern? 
 
 <center> <h1>Who talks about Climate Change? </h1> </center>
 
 Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
-_Are the most quoted people for Climate Change talk onlyy about it?_
+_Are the most quoted people for Climate Change talk only about Climate Change?_
 
 <div align="center" style="text-align:center">
-<table>
+<table align="center" style="text-align:center">
  <tr><th>Position  </th> <th>Speaker</th>         <th>% over all Speaker quotes </th></tr>
  <tr><td> 1 </td>   <td> Barack Obama </td>        <td> 32.8 % </td></tr>
  <tr><td> 2 </td>   <td> Bernie Sanders </td>      <td> 40.9 % </td></tr>
@@ -94,6 +98,9 @@ _Are the most quoted people for Climate Change talk onlyy about it?_
  </div>
  
  **Table 1:** Top most quoted speaker and their percentage of citation on Climate Change out of their total citation. 
+
+It seems that is not the case, but still it is a hot topic! 
+
 Do you see a trend between most quoted speakers?
 
 #### We will help you: 
@@ -112,7 +119,7 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 
 <center> <h1>What are the medias that publish the most Climate Change related topic?</h1> </center>
 
-Finally, what will be the most eficient media to talk about CC? 
+Finally, what will be the most eficient media to talk about Climate Change? 
 
 
 <iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content'></iframe><div style='width:110%!;margin-top:4px!important;text-align:right!important;'></div>

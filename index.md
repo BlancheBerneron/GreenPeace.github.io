@@ -24,10 +24,11 @@ All these previous scientestics facts need to be vulgarized and reach the genera
 
 We want to create a productive awareness campaign about Climate Change. Thanks to “Quotebank '' database and open accessible data, our goal is to understand how the Climate Change topic has been appropriated by society in the last 5 years. In other words, when do we talk about it, who and in which platform? This article should serve as a head start for people searching how to target the Climate Change awareness campaign.
 
-## Key Insights (Research Question) or answer of the research question
-During this article we will find:
-* What are the topics that trigger conversation about CC.
-* Barack Obama seems the guru of… Who is talking about it in the media. ….. …. 
+## Research Questions
+During this article we will anwser to the following questions:
+* What were the topics and events that triggered conversation about Climate Change?
+* Who are the main personalities driving Climate Change topic? 
+* Are there medias appropriating Climate Change theme? Is Climate Change "IN"? 
 
 ## How we did it
 We built our dataset from Quotebank, an open corpus of 178 million quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published between 2008 and 2020. Additionally, we only take Climate Change
@@ -36,8 +37,7 @@ We wanted to have as much data as possible to have an accurate analysis. So we h
 
 
          Quotes                          Speakers                       Domains   
-        120'000                          1'234                          45'678
-
+         142'238                          50'154                         6'673
 
 
 #### Let’s check now what the data has to say... 
@@ -61,7 +61,10 @@ Major pics are related with political reunion.
 {: .box-note}
 **Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
  
-Graph of topic
+<div align="center" >
+         <img src="/assets/Topic1.jpeg" alt="drawing" width="400"/>  <img src="/assets/Topic2.jpeg" alt="drawing" width="400"/>
+</div>
+
  
 ### Topic Trough time
  
@@ -76,9 +79,9 @@ This could already give us a hint of topics that people are interestd about!
 Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
 _Are the most quoted people for Climate Change talk onlyy about it?_
 
-<div>
+<div >
 <table  align="center" style="text-align:center" >
- <tr><th>Position   </th> <th>Speaker</th>         <th>% over all Speaker quotes </th></tr>
+ <tr><th>Position  </th> <th>Speaker</th>         <th>% over all Speaker quotes </th></tr>
  <tr><td> 1 </td>   <td> Barack Obama </td>        <td> 26.9 % </td></tr>
  <tr><td> 2 </td>   <td> Bernie Sanders </td>      <td> 26.3 % </td></tr>
  <tr><td> 3 </td>   <td> Donald Trump  </td>       <td> 11.2 % </td></tr>
@@ -113,6 +116,6 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 Finally, what will be the most eficient media to talk about CC? 
 
 
-
+<center> <h1>Conclusion and Implication</h1> </center>
 
 

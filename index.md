@@ -30,14 +30,28 @@ During this article we will find:
 * Barack Obama seems the guru of… Who is talking about it in the media. ….. …. 
 
 ## How we did it
-We wanted to have as much data as possible to have an accurate analysis. So we built our dataset from:
+We built our dataset from Quotebank, an open corpus of 178 million quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published between 2008 and 2020. Additionally, we only take Climate Change
 
-### Let’s check now what the data has to say. 
+We wanted to have as much data as possible to have an accurate analysis. So we have in total: 
+
+
+         Quotes           |                    Speakers               |        Domains   
+        120'000           |                    1'234                  |        45'678
+
+
+
+![](https://www.drodd.com/images16/green-color6.jpg text=Quotes)
+
+![](https://placehold.it/400x90/ff6600/000?text=WARNING!)
+
+![](https://placehold.it/350x90/009955/fff?text=SUCCESS!)
+
+#### Let’s check now what the data has to say... 
 
 
 <center> <h1>Which events triggers conversion about Climate Change?</h1> </center>
 
-{: .alert-green}
+{: .box-note}
 **Assumption:** There is a linear relationship between quotes and articles in online newspapers. 
 
 ### Frecuency of Climate Change Quotes 

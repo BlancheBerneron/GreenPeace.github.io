@@ -3,6 +3,7 @@ layout: page
 title: GreenPeace
 subtitle: Faced with the climate emergency, speeches are not enough. 
 output: html_document
+cover-img: "/assets/greenpeace-logo-4.png"
 use-site-title: true
 ---
 

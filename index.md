@@ -64,60 +64,8 @@ A major pic appears in April 2017, what happend then?
 {: .box-note}
 **Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
  
- <!--_(Topics)!_-->
- <img src="/assets/plots/Topic1.jpeg" width="400"> 
- <img src="/assets/plots/Topic2.jpeg"  width="400"/>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8156209"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
- <table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>gs_score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>students/social media</th>
-      <td>0.092990</td>
-    </tr>
-    <tr>
-      <th>pronouns</th>
-      <td>0.110561</td>
-    </tr>
-    <tr>
-      <th>positive words</th>
-      <td>0.111841</td>
-    </tr>
-    <tr>
-      <th>community</th>
-      <td>0.112516</td>
-    </tr>
-    <tr>
-      <th>vehicles</th>
-      <td>0.141709</td>
-    </tr>
-    <tr>
-      <th>models</th>
-      <td>0.267073</td>
-    </tr>
-    <tr>
-      <th>research/information</th>
-      <td>0.279250</td>
-    </tr>
-    <tr>
-      <th>tax</th>
-      <td>0.281609</td>
-    </tr>
-    <tr>
-      <th>trump</th>
-      <td>0.282273</td>
-    </tr>
-    <tr>
-      <th>eurozone/trade</th>
-      <td>0.295980</td>
-    </tr>
-  </tbody>
-</table>
  
 ### Is there a difference of frequency of before and after X event?
  Lalala

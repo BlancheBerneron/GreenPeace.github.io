@@ -35,8 +35,8 @@ We built our dataset from Quotebank, an open corpus of 178 million quotations at
 We wanted to have as much data as possible to have an accurate analysis. So we have in total: 
 
 
-         Quotes           |                Speakers               |        Domains   
-        120'000           |                1'234                  |        45'678
+         Quotes                          Speakers                       Domains   
+        120'000                          1'234                          45'678
 
 
 
@@ -74,11 +74,10 @@ This could already give us a hint of topics that people are interestd about!
 <center> <h1>Who talks about Climate Change? </h1> </center>
 
 Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
-
-Are the most quoted people for Climate Change talk onlyy about it? 
+_Are the most quoted people for Climate Change talk onlyy about it?_
 
 <div>
-<table align="center" style="text-align:center" >
+<table  align="center" style="text-align:center" >
  <tr><th>Position   </th> <th>Speaker</th>         <th>% over all Speaker quotes </th></tr>
  <tr><td> 1 </td>   <td> Barack Obama </td>        <td> 26.9 % </td></tr>
  <tr><td> 2 </td>   <td> Bernie Sanders </td>      <td> 26.3 % </td></tr>
@@ -95,7 +94,7 @@ Are the most quoted people for Climate Change talk onlyy about it?
  
 Do you see a trend between most quoted speakers?
 
-We will help you: 
+#### We will help you: 
  
  ADD A IMAGE WITH PLOT OF DIFFERENTS FEATURES 
 The “type” person that is most quoted about the climate change is: 

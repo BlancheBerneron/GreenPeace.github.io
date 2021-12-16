@@ -61,9 +61,9 @@ Major pics are related with political reunion.
 {: .box-note}
 **Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
  
-<div align="center" >
-         <img src="/assets/Topic1.jpeg" width="400" style="float:left"/> <img src="/assets/Topic2.jpeg"  width="400" style="float:right"/>
-</div>
+
+  <img src="/assets/Topic1.jpeg" width="400"> <img src="/assets/Topic2.jpeg"  width="400"/>
+
 
  
 ### Topic Trough time

@@ -6,7 +6,7 @@ output: html_document
 use-site-title: true
 ---
 
-# Where are we standing and why it is important to create campains? 
+<center> <h1>Where are we standing and why it is important to create campains?</h1> </center>
 
 >“Global warming is likely to be the greatest threat of the 21st century.” 
 
@@ -34,8 +34,6 @@ We wanted to have as much data as possible to have an accurate analysis. So we b
 
 ### Let’s check now what the data has to say. 
 
-
-# Which events triggers conversion about Climate Change? 
 
 <center> <h1>Which events triggers conversion about Climate Change?</h1> </center>
 
@@ -111,7 +109,9 @@ Most people quoted seem to be political. Indeed the following graph will show yo
 (tals about politics? Embedding? ) 
 
 Ok, so in conclusion if you are  politic with this and this age nationality and , be sure that you will be hearded. 
-## What are the medias that publish the most Climate Change related topic? 
+
+<center> <h1>What are the medias that publish the most Climate Change related topic?</h1> </center>
+
 Finally, what will be the most eficient media to talk about CC? 
 
 

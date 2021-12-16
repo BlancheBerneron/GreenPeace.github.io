@@ -36,11 +36,20 @@ We built our dataset from Quotebank, an open corpus of 178 million quotations at
 We wanted to have as much data as possible to have an accurate analysis. So we have in total: 
 
 
-          Quotes                                       Speakers                                            Domains  
-          142'238                                       50'154                                              6'673
-           
-           
+          Quotes                                Speakers                                Domains  
+          142'238                                50'154                                  6'673 
  --------- 
+
+
+{: .box-note}
+**Quotes: 142'238** 
+**Speakers: 50'154**
+**Domains: 6'673**
+
+{: .box-note}
+**Quotes          Speakers        Domains** 
+**142'238           50'154         6'673**
+
 
 #### Let’s check now what the data has to say... 
 

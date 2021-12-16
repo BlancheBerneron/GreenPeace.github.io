@@ -3,6 +3,7 @@ layout: page
 title: GreenPeace
 subtitle: Faced with the climate emergency, speeches are not enough. 
 full-width: true
+output: html_document
 use-site-title: true
 ---
 
@@ -76,6 +77,8 @@ Most quoted people in absolute value are…
 
 If indeed, if this time we use the proportion of all dataset we observe that:
 
+{::options parse_block_html="true" /}
+
 <table style="margin-left: auto; margin-right: auto; align="center"; align="center"">
  <tr><th>Index</th> <th>Speaker</th>              <th># In Count</th></tr>
  <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>
@@ -89,6 +92,8 @@ If indeed, if this time we use the proportion of all dataset we observe that:
  <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
  <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
  </table>
+ 
+ {::options parse_block_html="false" /}
  
 Do you see a trend?
 

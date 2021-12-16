@@ -126,6 +126,8 @@ Finally, what will be the most eficient media to talk about Climate Change?
 <iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content'></iframe><div style='width:110%!;margin-top:4px!important;text-align:right!important;'></div>
 
 
+<iframe src="assets/plots/sample_plot.html" width="100%" height="600px"></iframe>
+{% include plots/assets/plots/sample_plot.html %}
+
 <center> <h1>Conclusion and Implication</h1> </center>
 
-<iframe src="assets/plots/sample_plot.html" width="100%" height="600px"></iframe>

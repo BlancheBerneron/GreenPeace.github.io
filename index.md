@@ -3,7 +3,6 @@ layout: page
 title: GreenPeace
 subtitle: Faced with the climate emergency, speeches are not enough. 
 output: html_document
-cover-img: "/assets/greenpeace-logo-4.png"
 use-site-title: true
 ---
 
@@ -41,13 +40,22 @@ We wanted to have as much data as possible to have an accurate analysis. So we b
 {: .box-note}
 **Assumption:** There is a linear relationship between quotes and articles in online newspapers. 
 
+### Frecuency of Climate Change Quotes 
+<Graph occurences through time>
+Do Climate Change quotes appear in the frequency though time? No! There is a heterogenouty, how come? 
+
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
+<GRAPH Time VS number of quotes>
+Major pics are related with political reunion. 
 
-GRAPH Time VS number of quotes
-
-We observe already 3 straigth forward pics and a periode of lots of variation. By searching online we observe cosality, by introducing the 
-
-### What are the topic trough time? 
+### Main Topics of Climate Change 
+ 
+{: .box-note}
+**Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
+ 
+<Graph of topic>
+ 
+### Topic Trough time
  
 <iframe src='https://flo.uri.sh/visualisation/8142851/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8142851/?utm_source=embed&utm_campaign=visualisation/8142851' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -55,28 +63,11 @@ We observe already 3 straigth forward pics and a periode of lots of variation. B
 
 This could already give us a hint of topics that people are interestd about! 
 
-
-## Who talks about Climate Change? 
+<center> <h1>Who talks about Climate Change? </h1> </center>
 
 Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
 
 Most quoted people in absolute value are…
-
-| Index | Speaker | Count |
-| :------ |:--- | :---: |
-| 1 | Barack Obama | 12922 |
-| 2 | Donald Trump 	 | 5464 |
-| 3 | António Guterres | 5134 |
-| 4 | Bernie Sanders | 4256 |
-| 5 | Justin Trudeau | 4129 |
-| 6 | Jerry Brown 	 | 3732 |
-| 7 | Jay Inslee | 3290 |
-| 8 | Bill Shorten | 3137 |
-| 9 | Michael Mann | 2958 |
-| 10 | Narendra Modi | 2584 |
-
-If indeed, if this time we use the proportion of all dataset we observe that:
-
 
 <div>
 <table align="center" >
@@ -91,6 +82,24 @@ If indeed, if this time we use the proportion of all dataset we observe that:
  <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
  <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
  <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
+ </table>
+ </div>
+
+If indeed, if this time we use the proportion of all dataset we observe that:
+
+<div>
+<table align="center" >
+ <tr><th>Index</th> <th>Speaker</th>              <th>Pourcentage over all quotes </th></tr>
+ <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 27.3 % </td></tr>
+ <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 10 % </td></tr>
+ <tr><td> 3 </td>   <td> António Guterres </td>   <td> 5134</td></tr>
+ <tr><td> 4 </td>   <td> Bernie Sanders </td>     <td> 4256</td></tr>
+ <tr><td> 5 </td>   <td> Justin Trudeau </td>     <td> 4129</td></tr>
+ <tr><td> 6 </td>   <td> Jerry Brown </td>        <td> 3732</td></tr>
+ <tr><td> 7 </td>   <td> Jay Inslee </td>         <td> 3290</td></tr>
+ <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
+ <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
+ <tr><td> 10 </td>  <td> Narendra Modi </td>      <td> 2584</td></tr>
  </table>
  </div>
 

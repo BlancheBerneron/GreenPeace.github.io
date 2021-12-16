@@ -14,10 +14,7 @@ use-site-title: true
 >“Global warming is likely to be the greatest threat of the 21st century.” 
 
 As you all know, climate change refers to long-term shifts in temperatures and weather patterns. These shifts can be natural, such as through variations in the solar cycle. 
-Nevertheless, since the 1800s, human activities have been the [main driver of climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), more precisely in global warming. Indeed, in the last decades we observe a general increase in average temperatures of the Earth, which modifies the weather balances and ecosystems. 
-Activities such as burning fossil fuels generate greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun’s heat and raising temperatures.
-
-At the pace of current CO2 emissions, scientists expect an increase of between 1.5° and 5.3°C in average temperature by 2100. If no action is taken, it would have harmful consequences to humanity and the biosphere. 
+Nevertheless, since the 1800s, human activities have been the [main driver of climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), more precisely in global warming. Indeed, in the last decades we observe a general increase in average temperatures of the Earth, which modifies the weather balances and ecosystems. At the pace of current CO2 emissions, scientists expect an increase of between 1.5° and 5.3°C in average temperature by 2100. If no action is taken, it would have harmful consequences to humanity and the biosphere. 
 
 If you encounter climate skeptics in your way, you will find useful arguments [here](https://350.org/fr/). 
 
@@ -77,7 +74,7 @@ A major pic appears in April 2017, what happend then?
 
 This could already give us a hint of topics that people are interestd about! 
 
-Are there topics that appear in pattern? 
+Are there topics that appear in a pattern? 
 
 <center> <h1>Who talks about Climate Change? </h1> </center>
 
@@ -124,7 +121,8 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 
 <center> <h1>What are the medias that publish the most Climate Change related topic?</h1> </center>
 
-Finally, what will be the most eficient media to talk about Climate Change? 
+<img src="assets/time.png" alt="time_news" width="210" style="float:left"/>
+Finally, what will be the most eficient media to talk about Climate Change? Is it _Time_ as the poster could advance?  
 
 
 <iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content'></iframe>

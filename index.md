@@ -82,19 +82,20 @@ _Are the most quoted people for Climate Change talk onlyy about it?_
 <div align="center" style="text-align:center">
 <table>
  <tr><th>Position  </th> <th>Speaker</th>         <th>% over all Speaker quotes </th></tr>
- <tr><td> 1 </td>   <td> Barack Obama </td>        <td> 26.9 % </td></tr>
- <tr><td> 2 </td>   <td> Bernie Sanders </td>      <td> 26.3 % </td></tr>
- <tr><td> 3 </td>   <td> Donald Trump  </td>       <td> 11.2 % </td></tr>
- <tr><td> 4 </td>   <td> Justin Trudeau </td>      <td> 15.8 % </td></tr>
- <tr><td> 5 </td>   <td> Narendra Modi </td>       <td> 20.2 % </td></tr>
- <tr><td> 6 </td>   <td> António Guterres</td>     <td> 18.9 % </td></tr>
- <tr><td> 7 </td>   <td> Jay Inslee </td>          <td> 21.7 % </td></tr>
- <tr><td> 8 </td>   <td> Michael  </td>            <td> 28.2 % </td></tr>
- <tr><td> 9 </td>   <td> Catherine Mckenna </td>   <td> 55.4 % </td></tr>
- <tr><td> 10 </td>  <td> Jerry Brown </td>         <td> 15.7 % </td></tr>
+ <tr><td> 1 </td>   <td> Barack Obama </td>        <td> 32.8 % </td></tr>
+ <tr><td> 2 </td>   <td> Bernie Sanders </td>      <td> 40.9 % </td></tr>
+ <tr><td> 3 </td>   <td> Donald Trump  </td>       <td> 16.4 % </td></tr>
+ <tr><td> 4 </td>   <td> Narendra Modi  </td>      <td> 29.4 % </td></tr>
+ <tr><td> 5 </td>   <td> António Guterres </td>    <td> 27.7 % </td></tr>
+ <tr><td> 6 </td>   <td> Jay Inslee</td>           <td> 29.8 % </td></tr>
+ <tr><td> 7 </td>   <td> Michael Mann </td>        <td> 40.3 % </td></tr>
+ <tr><td> 8 </td>   <td> Justin Trudeau  </td>     <td> 19.4 % </td></tr>
+ <tr><td> 9 </td>   <td> Jerry Brown </td>         <td> 20.4 % </td></tr>
+ <tr><td> 10 </td>  <td> Al Gore </td>             <td> 24.5 % </td></tr>
  </table>   
  </div>
  
+ **Table 1:** Top most quoted speaker and their percentage of citation on Climate Change out of their total citation. 
 Do you see a trend between most quoted speakers?
 
 #### We will help you: 
@@ -116,7 +117,7 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 Finally, what will be the most eficient media to talk about CC? 
 
 
-<iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8142851/?utm_source=embed&utm_campaign=visualisation/8142851' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content'></iframe><div style='width:60%!;margin-top:4px!important;text-align:right!important;'></a></div>
 
 
 <center> <h1>Conclusion and Implication</h1> </center>

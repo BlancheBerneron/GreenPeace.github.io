@@ -77,8 +77,8 @@ Most quoted people in absolute value are…
 If indeed, if this time we use the proportion of all dataset we observe that:
 
 
-<div align="center">
-<table style="margin-left: auto; margin-right: auto; align="center"; align="center"">
+<div>
+<table align="center" style="float:right" >
  <tr><th>Index</th> <th>Speaker</th>              <th># In Count</th></tr>
  <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>
  <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td></tr>
@@ -115,10 +115,6 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 Finally, what will be the most eficient media to talk about CC? 
 
 
- 
-<script>
-includeHTML();
-</script> 
 
 
 

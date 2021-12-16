@@ -2,6 +2,7 @@
 layout: page
 title: GreenPeace
 subtitle: Faced with the climate emergency, speeches are not enough. 
+full-width: true
 use-site-title: true
 ---
 
@@ -25,8 +26,8 @@ We want to create a productive awareness campaign about Climate Change. Thanks t
 
 ## Key Insights (Research Question) or answer of the research question
 During this article we will find:
-What are the topics that trigger conversation about CC.
-Barack Obama seems the guru of… Who is talking about it in the media. ….. …. Let’s check what the data of quotes says!
+* What are the topics that trigger conversation about CC.
+* Barack Obama seems the guru of… Who is talking about it in the media. ….. …. 
 
 ## How we did it
 We wanted to have as much data as possible to have an accurate analysis. So we built our dataset from:

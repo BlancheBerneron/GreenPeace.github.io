@@ -41,11 +41,11 @@ We wanted to have as much data as possible to have an accurate analysis. So we b
 **Assumption:** There is a linear relationship between quotes and articles in online newspapers. 
 
 ### Frecuency of Climate Change Quotes 
-<Graph occurences through time>
+Graph occurences through time
 Do Climate Change quotes appear in the frequency though time? No! There is a heterogenouty, how come? 
 
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
-<GRAPH Time VS number of quotes>
+GRAPH Time VS number of quotes
 Major pics are related with political reunion. 
 
 ### Main Topics of Climate Change 
@@ -53,7 +53,7 @@ Major pics are related with political reunion.
 {: .box-note}
 **Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
  
-<Graph of topic>
+Graph of topic
  
 ### Topic Trough time
  
@@ -67,44 +67,25 @@ This could already give us a hint of topics that people are interestd about!
 
 Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
 
-Most quoted people in absolute value are…
+Are the most quoted people for Climate Change talk onlyy about it? 
 
 <div>
 <table align="center" >
- <tr><th>Index</th> <th>Speaker</th>              <th>In Count</th></tr>
- <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>
- <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td></tr>
- <tr><td> 3 </td>   <td> António Guterres </td>       <td> 5134</td></tr>
- <tr><td> 4 </td>   <td> Bernie Sanders </td>       <td> 4256</td></tr>
- <tr><td> 5 </td>   <td> Justin Trudeau </td>       <td> 4129</td></tr>
- <tr><td> 6 </td>   <td> Jerry Brown </td>       <td> 3732</td></tr>
- <tr><td> 7 </td>   <td> Jay Inslee </td>       <td> 3290</td></tr>
- <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
- <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
- <tr><td> 10 </td>  <td> Narendra Modi </td>       <td> 2584</td></tr>
- </table>
+ <tr><th>Index</th> <th>Speaker</th>              <th>Pourcentage over all C.C quotes </th></tr>   <th>Pourcentage over all Speaker quotes </th></tr>
+ <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>                             <td> 27.3 % </td></tr>
+ <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td></tr>                               <td> 10 % </td></tr>
+ <tr><td> 3 </td>   <td> António Guterres </td>   <td> 5134</td></tr>                               <td> 10 % </td></tr>
+ <tr><td> 4 </td>   <td> Bernie Sanders </td>     <td> 4256</td></tr>                               <td> 10 % </td></tr>
+ <tr><td> 5 </td>   <td> Justin Trudeau </td>     <td> 4129</td></tr>                               <td> 10 % </td></tr>
+ <tr><td> 6 </td>   <td> Jerry Brown </td>        <td> 3732</td></tr>                               <td> 10 % </td></tr>
+ <tr><td> 7 </td>   <td> Jay Inslee </td>         <td> 3290</td></tr>                               <td> 10 % </td></tr>
+ <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>                               <td> 10 % </td></tr>
+ <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>                               <td> 10 % </td></tr>
+ <tr><td> 10 </td>  <td> Narendra Modi </td>      <td> 2584</td></tr>                               <td> 10 % </td></tr>
+ </table>   
  </div>
-
-If indeed, if this time we use the proportion of all dataset we observe that:
-
-<div>
-<table align="center" >
- <tr><th>Index</th> <th>Speaker</th>              <th>Pourcentage over all quotes </th></tr>
- <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 27.3 % </td></tr>
- <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 10 % </td></tr>
- <tr><td> 3 </td>   <td> António Guterres </td>   <td> 5134</td></tr>
- <tr><td> 4 </td>   <td> Bernie Sanders </td>     <td> 4256</td></tr>
- <tr><td> 5 </td>   <td> Justin Trudeau </td>     <td> 4129</td></tr>
- <tr><td> 6 </td>   <td> Jerry Brown </td>        <td> 3732</td></tr>
- <tr><td> 7 </td>   <td> Jay Inslee </td>         <td> 3290</td></tr>
- <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td></tr>
- <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td></tr>
- <tr><td> 10 </td>  <td> Narendra Modi </td>      <td> 2584</td></tr>
- </table>
- </div>
-
  
-Do you see a trend?
+Do you see a trend between most quoted speakers?
 
 We will help you: 
  

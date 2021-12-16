@@ -72,16 +72,16 @@ Are the most quoted people for Climate Change talk onlyy about it?
 <div>
 <table align="center" style="text-align:center" >
  <tr><th>Index</th> <th>Speaker</th>              <th>% over all C.C quotes </th>  <th>% over all Speaker quotes </th></tr>
- <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td>                 <td> 27.3 % </td></tr>
- <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td>                   <td> 10 % </td></tr>
- <tr><td> 3 </td>   <td> António Guterres </td>   <td> 5134</td>                   <td> 10 % </td></tr>
- <tr><td> 4 </td>   <td> Bernie Sanders </td>     <td> 4256</td>                   <td> 10 % </td></tr>
- <tr><td> 5 </td>   <td> Justin Trudeau </td>     <td> 4129</td>                   <td> 10 % </td></tr>
- <tr><td> 6 </td>   <td> Jerry Brown </td>        <td> 3732</td>                   <td> 10 % </td></tr>
- <tr><td> 7 </td>   <td> Jay Inslee </td>         <td> 3290</td>                   <td> 10 % </td></tr>
- <tr><td> 8 </td>   <td> Bill Shorten </td>       <td> 3137</td>                   <td> 10 % </td></tr>
- <tr><td> 9 </td>   <td> Michael Mann </td>       <td> 2958</td>                   <td> 10 % </td></tr>
- <tr><td> 10 </td>  <td> Narendra Modi </td>      <td> 2584</td>                   <td> 10 % </td></tr>
+ <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td>                 <td> 26.9 % </td></tr>
+ <tr><td> 2 </td>   <td> Bernie Sanders </td>     <td> 5464</td>                   <td> 26.3 % </td></tr>
+ <tr><td> 3 </td>   <td> Donald Trump  </td>      <td> 5134</td>                   <td> 11.2 % </td></tr>
+ <tr><td> 4 </td>   <td> Justin Trudeau </td>     <td> 4256</td>                   <td> 15.8 % </td></tr>
+ <tr><td> 5 </td>   <td> Narendra Modi </td>      <td> 4129</td>                   <td> 20.2 % </td></tr>
+ <tr><td> 6 </td>   <td> António Guterres</td>    <td> 3732</td>                   <td> 18.9 % </td></tr>
+ <tr><td> 7 </td>   <td> Jay Inslee </td>         <td> 3290</td>                   <td> 21.7 % </td></tr>
+ <tr><td> 8 </td>   <td> Michael  </td>           <td> 3137</td>                   <td> 28.2 % </td></tr>
+ <tr><td> 9 </td>   <td> Catherine Mckenna </td>  <td> 2958</td>                   <td> 55.4 % </td></tr>
+ <tr><td> 10 </td>  <td> Jerry Brown </td>        <td> 2584</td>                   <td> 15.7 % </td></tr>
  </table>   
  </div>
  

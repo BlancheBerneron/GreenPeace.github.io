@@ -4,6 +4,10 @@ layout: page
 
 {{ content }}
 
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  <div class="row">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-18 offset-lg-1 {% endif %}">
+
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">

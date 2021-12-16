@@ -124,6 +124,9 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 <img src="assets/time.png" alt="time_news" width="210" style="float:left"/>
 
 
+
+
+
 Finally, what will be the most eficient media to talk about Climate Change? 
 Is it _Time_ as the poster could advance? 
 

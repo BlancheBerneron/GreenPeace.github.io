@@ -136,6 +136,8 @@ Let's play with embeddings, the hottest thing of the century !
 
 <iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content' width="100%" height="600px" ></iframe>
  
+{% include plots/Embedding projector - visualization of high-dimensional data.html %}
+
  And....
  
 {% include plots/sample_plot.html %}

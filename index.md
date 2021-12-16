@@ -61,8 +61,8 @@ A major pic appears in April 2017, what happend then?
 {: .box-note}
 **Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
  
-  <img src="/assets/Topic1.jpeg" width="400"> 
-  <img src="/assets/Topic2.jpeg"  width="400"/>
+  <img src="/assets/plots/Topic1.jpeg" width="400"> 
+  <img src="/assets/plots/Topic2.jpeg"  width="400"/>
  
 ### Is there a difference of frequency of before and after X event?
  Lalala
@@ -127,4 +127,4 @@ Finally, what will be the most eficient media to talk about Climate Change?
 
 <center> <h1>Conclusion and Implication</h1> </center>
 
-
+<iframe src="assets/plots/sample_plot.html" width="100%" height="600px"></iframe>

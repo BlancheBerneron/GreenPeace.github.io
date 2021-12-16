@@ -61,10 +61,8 @@ Major pics are related with political reunion.
 {: .box-note}
 **Side Note:** Thanks to LDA we are aible to determine different topics in Climate Change Quotes! 
  
-
-  <img src="/assets/Topic1.jpeg" width="400"> <img src="/assets/Topic2.jpeg"  width="400"/>
-
-
+  <img src="/assets/Topic1.jpeg" width="400"> 
+  <img src="/assets/Topic2.jpeg"  width="400"/>
  
 ### Topic Trough time
  
@@ -117,7 +115,7 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 Finally, what will be the most eficient media to talk about CC? 
 
 
-<iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content'></iframe><div style='width:60%!;margin-top:4px!important;text-align:right!important;'></a></div>
+<iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content'></iframe><div style='width:110%!;margin-top:4px!important;text-align:right!important;'></div>
 
 
 <center> <h1>Conclusion and Implication</h1> </center>

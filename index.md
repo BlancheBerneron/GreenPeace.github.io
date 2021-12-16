@@ -37,6 +37,8 @@ We wanted to have as much data as possible to have an accurate analysis. So we b
 
 # Which events triggers conversion about Climate Change? 
 
+<center> <h1>Which events triggers conversion about Climate Change?</h1> </center>
+
 {: .box-note}
 **Assumption:** There is a linear relationship between quotes and articles in online newspapers. 
 

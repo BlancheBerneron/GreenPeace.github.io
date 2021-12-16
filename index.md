@@ -2,7 +2,6 @@
 layout: page
 title: GreenPeace
 subtitle: Faced with the climate emergency, speeches are not enough. 
-full-width: true
 output: html_document
 use-site-title: true
 ---

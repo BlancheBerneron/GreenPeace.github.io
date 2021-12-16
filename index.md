@@ -36,9 +36,11 @@ We built our dataset from Quotebank, an open corpus of 178 million quotations at
 We wanted to have as much data as possible to have an accurate analysis. So we have in total: 
 
 
-         Quotes                          Speakers                       Domains   
-         142'238                          50'154                         6'673
-
+          Quotes                                       Speakers                                            Domains  
+          142'238                                       50'154                                              6'673
+           
+           
+ --------- 
 
 #### Let’s check now what the data has to say... 
 
@@ -79,8 +81,8 @@ This could already give us a hint of topics that people are interestd about!
 Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
 _Are the most quoted people for Climate Change talk onlyy about it?_
 
-<div >
-<table  align="center" style="text-align:center" >
+<div align="center" style="text-align:center">
+<table>
  <tr><th>Position  </th> <th>Speaker</th>         <th>% over all Speaker quotes </th></tr>
  <tr><td> 1 </td>   <td> Barack Obama </td>        <td> 26.9 % </td></tr>
  <tr><td> 2 </td>   <td> Bernie Sanders </td>      <td> 26.3 % </td></tr>

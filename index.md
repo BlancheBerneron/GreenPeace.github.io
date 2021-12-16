@@ -127,7 +127,6 @@ Finally, what will be the most eficient media to talk about Climate Change?
 
 
 <iframe src="assets/plots/sample_plot.html" width="100%" height="600px"></iframe>
-{% include assets/plots/sample_plot.html %}
 
 <center> <h1>Conclusion and Implication</h1> </center>
 

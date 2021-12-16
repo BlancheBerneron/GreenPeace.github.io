@@ -121,9 +121,13 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 
 <center> <h1>What are the medias that publish the most Climate Change related topic?</h1> </center>
 
+<img src="assets/time.png" alt="time_news" width="210" style="float:left"/>
+
+
 Finally, what will be the most eficient media to talk about Climate Change? 
 Is it _Time_ as the poster could advance? 
-<img src="assets/time.png" alt="time_news" width="210" style="float:left"/>
+
+
 
 Let's play with embeddings, the hottest thing of the century !
 

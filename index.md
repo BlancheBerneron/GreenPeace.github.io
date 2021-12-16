@@ -78,8 +78,8 @@ If indeed, if this time we use the proportion of all dataset we observe that:
 
 
 <div>
-<table align="center" style="float:right" >
- <tr><th>Index</th> <th>Speaker</th>              <th># In Count</th></tr>
+<table align="center" >
+ <tr><th>Index</th> <th>Speaker</th>              <th>In Count</th></tr>
  <tr><td> 1 </td>   <td> Barack Obama </td>       <td> 12922 </td></tr>
  <tr><td> 2 </td>   <td> Donald Trump </td>       <td> 5464</td></tr>
  <tr><td> 3 </td>   <td> António Guterres </td>       <td> 5134</td></tr>

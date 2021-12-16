@@ -131,7 +131,7 @@ Let's play with embeddings, the hottest thing of the century !
  
  And....
  
-{% include sample_plot.html %}
+{% include plots/sample_plot.html %}
 
 <center> <h1>Conclusion and Implication</h1> </center>
 

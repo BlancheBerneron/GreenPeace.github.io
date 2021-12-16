@@ -3,9 +3,9 @@ layout: page
 title: GreenPeace
 subtitle: Faced with the climate emergency, speeches are not enough. 
 output: html_document
-cover-img: /assets/art_collage.png
-thumbnail-img: /assets/art_collage.png
-share-img: /assets/art_collage.png
+cover-img: /assets/background.png
+thumbnail-img: /assets/background.png
+share-img: /assets/background.png
 use-site-title: true
 ---
 

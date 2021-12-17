@@ -43,7 +43,7 @@ WWe wanted to have as much data as possible to have an accurate analysis. The fi
 ### Frecuency of Climate Change Quotes 
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8162290"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/8162290"></div>
  **Figure 1:** Number of quotes about Climate Change over time.  
        
 The majors peaks observed on the graph are the following: 

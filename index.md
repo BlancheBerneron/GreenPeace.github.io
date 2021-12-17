@@ -281,12 +281,10 @@ To understand when the left and the right bring up climate change comments, we a
 <img src="/assets/plots/topic_distribution.png" alt="topic distribution" width="800" style="float:right"/>
 
 
-
 ### Polarization
 Statically, left leaning newspaper sites tend to speak about climate change more than right leaning sites. This result, while not surprising, does add to the increasing evidence we here at Greenpeace have found about the role politics plays in forming the views of the people. To better understand this dynamic we studied how different sites have used climate change in their discussions over time to answer the question of if climate change discussion has been polarized over the years. Ever since 2015, left-leaning news sites have been responsible for most of the discussion surrounding climate change, whereas the far-right sites quote an increasingly small portion of speakers who talk about climate change. The proportions have remained surprisingly static over time, with the left dominating the discussion. This is good news to us since it supports the argument that the discussion surrounding climate change is not becoming polarized. And, in fact, the centre sites are increasingly representing the discussion surrounding climate change. 
 
 {% include plots/polarization.html %}
-
 
 
 <center> <h1>Conclusion and Implication</h1> </center>

@@ -212,36 +212,6 @@ One question we’re often tasked with at Greenpeace is to understand which issu
        
        
        
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>gs_score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>students/social media</th>
-      <td>0.092990</td>
-    </tr>
-    <tr>
-      <th>pronouns</th>
-      <td>0.110561</td>
-    </tr>
-    <tr>
-      <th>positive words</th>
-      <td>0.111841</td>
-    </tr>
-    <tr>
-      <th>community</th>
-      <td>0.112516</td>
-    </tr>
-    <tr>
-      <th>vehicles</th>
-      <td>0.141709</td>
-    </tr>
-  </tbody>
-</table>
 
 <table border="1" class="dataframe">
   <thead>
@@ -252,28 +222,59 @@ One question we’re often tasked with at Greenpeace is to understand which issu
   </thead>
   <tbody>
     <tr>
-      <th>eurozone/trade</th>
-      <td>0.295980</td>
+      <th>society</th>
+      <td>0.149831</td>
     </tr>
     <tr>
-      <th>trump</th>
-      <td>0.282273</td>
+      <th>concern</th>
+      <td>0.153984</td>
     </tr>
     <tr>
-      <th>tax</th>
-      <td>0.281609</td>
+      <th>reduction</th>
+      <td>0.155351</td>
     </tr>
     <tr>
-      <th>research/information</th>
-      <td>0.279250</td>
+      <th>power/footprint</th>
+      <td>0.164052</td>
+    </tr>
+    <tr>
+      <th>biodiversity</th>
+      <td>0.167376</td>
+    </tr>
+  </tbody>
+</table>
+       
+       
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>gs_score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>eurozone</th>
+      <td>0.328310</td>
     </tr>
     <tr>
       <th>models</th>
-      <td>0.267073</td>
+      <td>0.316398</td>
+    </tr>
+    <tr>
+      <th>tax/trade</th>
+      <td>0.314999</td>
+    </tr>
+    <tr>
+      <th>trump</th>
+      <td>0.312403</td>
+    </tr>
+    <tr>
+      <th>science</th>
+      <td>0.276532</td>
     </tr>
   </tbody>
 </table>
-
 
 ### Projecting concept vectors
 Now that we know how general and specialist the topics are, we focused in on which sites care about which issues. When publishing or sharing our developments with specific news sites we need to know which audiences from which sites care about which aspects of climate change. This will allow us to focus in our information dissemination efforts to maximize the benefit the reader of the news site gets from our findings. We don’t want to speak the language of the reader, not in gibberish that’s likely to go over their head. 
@@ -283,30 +284,29 @@ Since each concept vector is projected in the same space as the actual newspaper
 However, one finding that surprised is the role that Trump played in driving climate change discussion across many news sites. While himself a known climate denier, Trump’s outbursts themselves dramatically increased the number of discussions that took place surrounding climate change. We find that HuffPost and Fox News are far more aligned to Trump’s topic, than other pressing climate concerns like the global south and environmental impacts. Further analysis is needed to understand whether this new form of discussion is beneficial, but if the maxim “all publicity is good publicity”, then increased exposure to climate change discussion, regardless of origin will help our cause. Below we feature a visual that includes the issue alignment on several key issues for seven sites.  
 
 
-
-<img src="/assets/plots/news_interests.html" alt="news interests">
+{% include plots/news_interests.html %}
 
 ### Connecting partisan scores to climate change issues
 To begin, we quantify the difference between the climate change discussion and all quotes more broadly. This will shine a light on the context in which climate change quotes occur. We find that climate change related quotes are more likely to occur in newspapers on the left than the right, and that the far right is also has a propensity of bringing up climate change. 
        
-<img src="/assets/plots/difference_plot.png" alt="difference plot">
+
+<img src="/assets/plots/difference_plot.png" alt="difference plot" width="210" style="float:right"/>
 
        
 Duncan Watts’ famous finding that while both the left and the right consume science, the science they consume differs, raises an important question in our analysis. While both the left and the right may talk about climate change (the left more), does the type of conversation about climate change differ between the groups. If so, this will let us better target the individual news, or alternatively, speak the language of the audience. 
 To understand when the left and the right bring up climate change comments, we are required to analyze the textual level, falling back to our favourite LDA. Below we present a series of histograms of how different climate change topics differ along partisan lines. We find that when the right invokes climate change, it is most often brought up in the context of business, trade, or tax. In contrast, the left tends to focus more on development, rising sea levels, and temperature. 
 
+       
+<img src="/assets/plots/topic_distribution.png" alt="topic distribution" width="210" style="float:right"/>
 
-<img src="/assets/plots/topic_distribution.png" alt="topic distribution">
 
 
 ### Polarization
 Statically, left leaning newspaper sites tend to speak about climate change more than right leaning sites. This result, while not surprising, does add to the increasing evidence we here at Greenpeace have found about the role politics plays in forming the views of the people. To better understand this dynamic we studied how different sites have used climate change in their discussions over time to answer the question of if climate change discussion has been polarized over the years. Ever since 2015, left-leaning news sites have been responsible for most of the discussion surrounding climate change, whereas the far-right sites quote an increasingly small portion of speakers who talk about climate change. The proportions have remained surprisingly static over time, with the left dominating the discussion. This is good news to us since it supports the argument that the discussion surrounding climate change is not becoming polarized. And, in fact, the centre sites are increasingly representing the discussion surrounding climate change. 
 
-<iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content' width="100%" height="600px" ></iframe>
- 
+{% include plots/polarization.html %}
 
 
-Example of include {% include plots/sample_plot.html %}
 
 
 <center> <h1>Conclusion and Implication</h1> </center>

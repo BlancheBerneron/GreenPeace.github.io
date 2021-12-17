@@ -215,6 +215,10 @@ After embedding each of the news sites, we turn to the embedding of concepts to 
 </table>
 
 ### GS SCORE
+
+One question we’re often tasked with at Greenpeace is to understand which issues related to climate change we need to focus on. Do we find a very specialized issue that will be sympathetic to a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to understand which issues are generally discussed, and which issues are highly specific. To do this, we find the average cosine similarity to the center of mass for each topic in our embedding, and then find the average cosine similarity for all shares of the topic. A topic is widely shared if it is invoked in a lot of wide-ranging communities, and it is locally shared if it occurs in a very specific area of the embedding. 
+       
+       
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

@@ -26,11 +26,11 @@ During this article we will answer to the following questions:
 ## How we did it
 We built our dataset from Quotebank, an open corpus of 178 million quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published between 2008 and 2020. Additionally, we filtered the dataset and took only Climate Change related quotes.
 
-WWe wanted to have as much data as possible to have an accurate analysis. The final Climate Change database is composed of: 
+We wanted to have as much data as possible to have an accurate analysis. The final Climate Change database is composed of: 
 
 
        Quotes                            Speakers                            Domains  
-       260'924                            178'716                             6'673? 
+       260'924                            178'716                             6'673 
 
 
 {: .box-note}
@@ -114,17 +114,9 @@ And Religion?
        
 
        
- ADD A IMAGE WITH PLOT OF DIFFERENTS FEATURES 
-The “type” person that is most quoted about the climate change is: 
- 
-ADD IMAGE PEARSON WITH PIE CHARTS OF OCCUPATION, SEX, NATIONALITY,  RACE AND RELEGION
-
-Most people quoted seem to be political. Indeed the following graph will show you what the occupation of most quoted people is. But let’s go further 
 
 
-(tals about politics? Embedding? ) 
-
-Ok, so in conclusion if you are  politic with this and this age nationality and , be sure that you will be hearded. 
+Ok, so in conclusion if you are a politic with this and this age nationality and , be sure that you will be hearded. 
 
 <center> <h1>What are the medias that publish the most Climate Change related topic?</h1> </center>
 
@@ -308,9 +300,11 @@ Statically, left leaning newspaper sites tend to speak about climate change more
 
 
 
-
 <center> <h1>Conclusion and Implication</h1> </center>
 
 {: .box-note}
 **Side Note:** If you encounter climate skeptics in your way, you will find useful arguments [here](https://350.org/fr/).  
        
+In this report we presented our analysis of climate change in the media. We find that climate change discussion has been remained fairly static over the last five years, seeing a minor rise in the end of 2019 into 2020. Key events like the Paris Agreement and Trump’s language drive public discussion around the topic, and the frequency of quotes increases dramatically. 
+PROVIDE A CONCLUSION ON PEOPLE IF IT OCCURS
+Finally, we developed an embedding technique to deepen our understanding of climate change in the news. This embedding technique provided us a new lens for studying climate change in the news, where each site was represented as a point in a high-dimensional vector space with two sites close together if they share a lot of the same speakers. This embedding was used to augment our understanding of the topics that were discussed and study how sites formed distinct clusters.

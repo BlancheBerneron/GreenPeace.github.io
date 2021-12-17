@@ -66,10 +66,9 @@ Can we trust our guts? Let's find out.
 By understanding the issues that are intrinsic to climate change, we will be able to see which issues have been raised at which time.
        
 ### Topic Trough time
- 
-<iframe src='https://flo.uri.sh/visualisation/8142851/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8142851/?utm_source=embed&utm_campaign=visualisation/8142851' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-
+HEAT MAP
+       
 This could already give us a hint of topics that people are interestd about! 
 
 Are there topics that appear in a pattern? 
@@ -80,9 +79,8 @@ When performing a linear trend curve, we observe a minimal increase of quotes pe
        
 But let's check if after a peak people were more concerned about Climate Change the following months, by observing the proportion of quotes about overall all quotes of the dataset. 
        
-       CHANGE
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8163947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+       
 There exists a difference in the mean of the number of quotes about Climate Change but it is not statistically significant, indeed, we observe a p-value of 0.057. Nevertheless no conclusion can be made, on one hand, in early 2020 Covid-19 appeared, and everyone talked only about this.... Additionally,  this event cannot be taken as an independent event, like we observed before and after this “fateful month”  there were key events, like strikes made by young people in 2019, or the Paris Agreement in 2015. 
 
 <center> <h1>Who talks about Climate Change? </h1> </center>

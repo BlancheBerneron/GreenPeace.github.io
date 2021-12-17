@@ -30,7 +30,7 @@ We wanted to have as much data as possible to have an accurate analysis. The fin
 
 
        Quotes                            Speakers                            Domains  
-       260'924                            178'716                             6'673 
+       260'924                            178'716                             58'177 
 
 
 {: .box-note}
@@ -69,19 +69,13 @@ By understanding the issues that are intrinsic to climate change, we will be abl
 
 HEAT MAP
        
-This could already give us a hint of topics that people are interestd about! 
-
-Are there topics that appear in a pattern? 
- 
+This could already give us a hint of topics observe in the peaks. 
+       
 ### Is there an increasing tendency on Climate Change quotes frequency? 
        
 When performing a linear trend curve, we observe a minimal increase of quotes per month, not statistically at all. 
        
-But let's check if after a peak people were more concerned about Climate Change the following months, by observing the proportion of quotes about overall all quotes of the dataset. 
-       
-<div class="flourish-embed flourish-scatter" data-src="visualisation/8163947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-       
-There exists a difference in the mean of the number of quotes about Climate Change but it is not statistically significant, indeed, we observe a p-value of 0.057. Nevertheless no conclusion can be made, on one hand, in early 2020 Covid-19 appeared, and everyone talked only about this.... Additionally,  this event cannot be taken as an independent event, like we observed before and after this “fateful month”  there were key events, like strikes made by young people in 2019, or the Paris Agreement in 2015. 
+
 
 <center> <h1>Who talks about Climate Change? </h1> </center>
 

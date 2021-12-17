@@ -145,7 +145,7 @@ Let's play with embeddings, the hottest thing of the century !
  
 {% include plots/sample_plot.html %}
 
-![screen-gif](./assets/plots/embedding-video.gif)
+<img title="Test" alt="Alt text" src="/assets/plots/embedding-video.gif">
 
 <center> <h1>Conclusion and Implication</h1> </center>
 

@@ -46,12 +46,13 @@ Let's start really brodly by analysing the evolution of climate change quotes in
 <div class="flourish-embed flourish-chart" data-src="visualisation/8162290"></div>
  **Figure 1:** Number of quotes about Climate Change over time.  
        
-The majors peaks observed on the graph are the following: 
-     
-* April 2017 : Accordint to WikiTimeline on 28th March "U.S. President Trump signs an executive order undoing former President Obama's climate change policies"
-* November 2015 : According to WikiTimeline "Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks." 
-* September 2019:  According to WikiTimeline "Millions of young people take to the streets and numerous businesses worldwide go on strike days before the UN Climate Summit, demanding that further action be taken to confront climate change." 
+The majors local and global peaks observed on the graph are the following: 
 
+* November 2015 : According to WikiTimeline "Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks." 
+* Juin 2017 : Accordint to WikiTimeline the 1st of June "United States withdrawal from the Paris Agreement"
+* Juin 2019:  Accordint to WikiTimeline "The House of Representatives of the Netherlands passes the final bill of the climate agreement. The goal of the accord is to have the level of greenhouse gasses in the atmosphere in 2030 the same as the level of greenhouse gasses in the atmosphere in 1990."
+* September 2019:  According to WikiTimeline "Millions of young people take to the streets and numerous businesses worldwide go on strike days before the UN Climate Summit, demanding that further action be taken to confront climate change." 
+       
 Can we trust our guts? Let's find out. 
       
 ### Main Topics of Climate Change 

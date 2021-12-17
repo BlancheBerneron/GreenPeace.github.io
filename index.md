@@ -44,7 +44,7 @@ Do Climate Change quotes appear in the frequency though time? No! There is a het
 
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8162290"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/8142851"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
        
 The majors peaks observed on the graph are the following: 
      

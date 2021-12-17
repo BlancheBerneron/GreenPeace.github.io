@@ -7,16 +7,9 @@ cover-img: /assets/green-headlines.png
 use-site-title: true
 ---
 
-<center> <h1>Where are we standing and why it is important to create campains?</h1> </center>
+Dear Jennifer Morgan,
 
->“Global warming is likely to be the greatest threat of the 21st century.” 
-
-As you all know, climate change refers to long-term shifts in temperatures and weather patterns. These shifts can be natural, such as through variations in the solar cycle. 
-Nevertheless, since the 1800s, human activities have been the [main driver of climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), more precisely in global warming. Indeed, in the last decades we observe a general increase in average temperatures of the Earth, which modifies the weather balances and ecosystems. At the pace of current CO2 emissions, scientists expect an increase of between 1.5° and 5.3°C in average temperature by 2100. If no action is taken, it would have harmful consequences to humanity and the biosphere. 
-
-If you encounter climate skeptics in your way, you will find useful arguments [here](https://350.org/fr/). 
-
-All these previous scientific facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, simulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. 
+We want to thank you for letting us take on the challenge of better understanding the climate change landscape in the news. We believe that this data-driven approach can complement Greenpeace’s existing, more qualitative, methods and provide you with a coherent understanding of how the climate change discourse has evolved within the news. After three months of extensive research, we have reached the point where our findings will bring a tangible improvement to Greenpeace’s core mission: <core mission>.
 
 ## Goal
 We want to create a productive awareness campaign about Climate Change. Thanks to “Quotebank '' database and open accessible data, our goal is to understand how the Climate Change topic has been appropriated by society in the last 5 years. In other words, when do we talk about it, who and in which platform? This article should serve as a head start for people searching how to target the Climate Change awareness campaign.
@@ -156,3 +149,6 @@ Let's play with embeddings, the hottest thing of the century !
 
 <center> <h1>Conclusion and Implication</h1> </center>
 
+{: .box-note}
+**Side Note:** If you encounter climate skeptics in your way, you will find useful arguments [here](https://350.org/fr/).  
+       

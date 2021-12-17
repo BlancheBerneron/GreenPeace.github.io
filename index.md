@@ -17,12 +17,16 @@ We want to create a productive awareness campaign about Climate Change. Thanks t
 This article should serve as a head start for people searching how to target a Climate Change awareness campaign.
 
 
+
 ## Research Questions
 During this article we will answer to the following questions:
-* What were the topics and events that triggered conversation about Climate Change?
-* Who are the main personalities driving the Climate Change topic?
-* Are there media spreading the Climate Change subject? Is Climate Change "IN"?
-
+* What were the topics and events that triggered conversation about climate change?
+* Who are the main personalities driving the climate change topic?
+* Which news sites focus most on climate change?
+       * Which news sites focus on what issues?
+* How are the issues politicized?
+* Is climate change getting more polarzied? 
+       
 ## How we did it
 We built our dataset from Quotebank, an open corpus of 178 million quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published between 2008 and 2020. Additionally, we filtered the dataset and took only Climate Change related quotes.
 

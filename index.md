@@ -27,7 +27,7 @@ We wanted to have as much data as possible to have an accurate analysis. So we h
 
 
        Quotes                            Speakers                            Domains  
-       142'238                            50'154                              6'673 
+       260'924                            178'716                              6'673? 
 
 
 #### Let’s check now what the data has to say... 

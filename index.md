@@ -43,7 +43,9 @@ Graph occurences through time
 Do Climate Change quotes appear in the frequency though time? No! There is a heterogenouty, either quotes are published hundred of times in differents news papers either they appear few time. How come? 
 
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
-GRAPH Time VS number of quotes
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8162290"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+       
 A major pic appears in April 2017, what happend then? 
 
 ### Main Topics of Climate Change 

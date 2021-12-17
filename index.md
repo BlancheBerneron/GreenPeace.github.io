@@ -71,7 +71,7 @@ This could already give us a hint of topics that people are interestd about!
 
 Are there topics that appear in a pattern? 
  
-### Is there thus a difference on frequency before and after April 2017 ?
+### Is there thus a difference on Climate Change quotes frequency before and after April 2017 ?
        
 Let's check if after April 2017 people were more concerned about Climate Change by observing the proportion of quotes about overall all quotes of the dataset. 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8163947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

@@ -83,23 +83,8 @@ There exists a difference in the mean of the number of quotes about Climate Chan
 Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
 _Are the most quoted people for Climate Change talk **only** about Climate Change?_
 
-<div align="center" style="text-align:center">
-<table align="center" style="text-align:center">
- <tr><th>Position  </th> <th>Speaker</th>         <th>% over all Speaker quotes </th></tr>
- <tr><td> 1 </td>   <td> Barack Obama </td>        <td> 32.4 % </td></tr>
- <tr><td> 2 </td>   <td> Bernie Sanders </td>      <td> 40.9 % </td></tr>
- <tr><td> 3 </td>   <td> Donald Trump  </td>       <td> 15.8 % </td></tr>
- <tr><td> 4 </td>   <td> Narendra Modi  </td>      <td> 27.6 % </td></tr>
- <tr><td> 5 </td>   <td> António Guterres </td>    <td> 29.8 % </td></tr>
- <tr><td> 6 </td>   <td> Jay Inslee</td>           <td> 25.9 % </td></tr>
- <tr><td> 7 </td>   <td> Michael Mann </td>        <td> 40.3 % </td></tr>
- <tr><td> 8 </td>   <td> Justin Trudeau  </td>     <td> 19.1 % </td></tr>
- <tr><td> 9 </td>   <td> Jerry Brown </td>         <td> 20.3 % </td></tr>
- <tr><td> 10 </td>  <td> Al Gore </td>             <td> 24.4 % </td></tr>
- </table>   
- </div>
- 
- **Table 1:** Top most quoted speaker and their percentage of citation on Climate Change out of their total citation. 
+<div class="flourish-embed flourish-cards" data-src="visualisation/8165651"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+ **Figure X:** Top most quoted speaker. 
 
 It seems that is not the case, but still it is a hot topic! Indeed, in adverage a third of speakers' quotes are about Climate Change. 
 

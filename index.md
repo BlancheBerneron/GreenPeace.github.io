@@ -12,30 +12,33 @@ Dear Jennifer Morgan,
 We want to thank you for letting us take on the challenge of better understanding the climate change landscape in the news. We believe that this data-driven approach can complement Greenpeace’s existing, more qualitative, methods and provide you with a coherent understanding of how the climate change discourse has evolved within the news. After three months of extensive research, we have reached the point where our findings will bring a tangible improvement to Greenpeace’s core mission: <core mission>.
 
 ## Goal
-We want to create a productive awareness campaign about Climate Change. Thanks to “Quotebank '' database and open accessible data, our goal is to understand how the Climate Change topic has been appropriated by society in the last 5 years. In other words, when do we talk about it, who and in which platform? This article should serve as a head start for people searching how to target the Climate Change awareness campaign.
+We want to create a productive awareness campaign about Climate Change. Thanks to the “Quotebank" database and open accessible data, our goal is to understand how the Climate Change topic has been spreaded through society in the last 5 years. In other words, when do people talk about it, who and on which platform? 
+
+This article should serve as a head start for people searching how to target a Climate Change awareness campaign.
+
 
 ## Research Questions
-During this article we will anwser to the following questions:
+During this article we will answer to the following questions:
 * What were the topics and events that triggered conversation about Climate Change?
-* Who are the main personalities driving Climate Change topic? 
-* Are there medias appropriating Climate Change theme? Is Climate Change "IN"? 
+* Who are the main personalities driving the Climate Change topic?
+* Are there media spreading the Climate Change subject? Is Climate Change "IN"?
 
 ## How we did it
-We built our dataset from Quotebank, an open corpus of 178 million quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published between 2008 and 2020. Additionally, we only take Climate Change
+We built our dataset from Quotebank, an open corpus of 178 million quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published between 2008 and 2020. Additionally, we filtered the dataset and took only Climate Change related quotes.
 
-We wanted to have as much data as possible to have an accurate analysis. So we have in total: 
+WWe wanted to have as much data as possible to have an accurate analysis. The final Climate Change database is composed of: 
 
 
        Quotes                            Speakers                            Domains  
-       260'924                            178'716                              6'673? 
+       260'924                            178'716                             6'673? 
 
 
+{: .box-note}
+**Side Note:** There is a linear relationship between quotes and articles in online newspapers. Thus if we interchange quotes and articles, don't be surprised.
+       
 #### Let’s check now what the data has to say... 
 
 <center> <h1>Is conversion about Climate Change constant over time?</h1> </center>
-
-{: .box-note}
-**Assumption:** There is a linear relationship between quotes and articles in online newspapers. Thus if we interchange both words, don't be surprised. 
 
 ### Frecuency of Climate Change Quotes 
 Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 

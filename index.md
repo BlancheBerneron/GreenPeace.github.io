@@ -101,9 +101,10 @@ Do you see a trend between most quoted speakers?
 
 <img title="Test" alt="Alt text" src="/assets/plots/test.png">
 
-#### We will help you: 
+#### Connecting speakers and sites in an **al-gore-itmic embedding**.
        
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8163210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<a href="https://gifyu.com/image/SSN8w"><img src="https://s10.gifyu.com/images/embedding_video.gif" alt="embedding_video.gif" border="0" /></a>
+       
        
  ADD A IMAGE WITH PLOT OF DIFFERENTS FEATURES 
 The “type” person that is most quoted about the climate change is: 

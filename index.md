@@ -98,7 +98,7 @@ Do you see a trend between most quoted speakers?
 
 #### We will help you: 
        
-<div class="flourish-embed flourish-chart" data-src="visualisation/8162673"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8163210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
        
  ADD A IMAGE WITH PLOT OF DIFFERENTS FEATURES 
 The “type” person that is most quoted about the climate change is: 

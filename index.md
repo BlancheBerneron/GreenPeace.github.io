@@ -40,7 +40,7 @@ We wanted to have as much data as possible to have an accurate analysis. So we h
 #### Let’s check now what the data has to say... 
 
 
-<center> <h1>Which events triggers conversion about Climate Change?</h1> </center>
+<center> <h1>Is conversion about Climate Change constant over time? ?</h1> </center>
 
 {: .box-note}
 **Assumption:** There is a linear relationship between quotes and articles in online newspapers. Thus if we interchange both words, don't be surprised. 

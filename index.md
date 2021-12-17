@@ -3,7 +3,7 @@ layout: page
 title: GreenPeace
 subtitle: Faced with the climate emergency, speeches are not enough. 
 output: html_document
-cover-img: /assets/green-headlines.png
+cover-img: /assets/green-headlines-2.png
 use-site-title: true
 ---
 
@@ -46,8 +46,15 @@ Let's start really brodly by analysing the evolution of climate change quotes in
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8162290"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
        
-A major pic appears in April 2017, what happend then? 
+The majors peaks observed on the graph are the following: 
+     
+* April 2017 : Accordint to WikiTimeline on 28th March "U.S. President Trump signs an executive order undoing former President Obama's climate change policies"
+* November 2015 : According to WikiTimeline "Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks." 
+* September 2019:  According to WikiTimeline "Millions of young people take to the streets and numerous businesses worldwide go on strike days before the UN Climate Summit, demanding that further action be taken to confront climate change." 
 
+Can we trust our guts? Let's find out. 
+       
+ (A major pic appears in April 2017, what happend then?  --> to keep?) 
 ### Main Topics of Climate Change 
  
 {: .box-note}

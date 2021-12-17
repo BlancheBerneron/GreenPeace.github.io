@@ -75,9 +75,13 @@ This could already give us a hint of topics that people are interestd about!
 
 Are there topics that appear in a pattern? 
  
-### Is there thus a difference on Climate Change quotes frequency before and after April 2017 ?
+### Is there an increasing tendency on Climate Change quotes frequency? 
        
-Let's check if after April 2017 people were more concerned about Climate Change by observing the proportion of quotes about overall all quotes of the dataset. 
+When performing a linear trend curve, we observe a minimal increase of quotes per month, not statistically at all. 
+       
+But let's check if after a peak people were more concerned about Climate Change the following months, by observing the proportion of quotes about overall all quotes of the dataset. 
+       
+       CHANGE
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8163947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 There exists a difference in the mean of the number of quotes about Climate Change but it is not statistically significant, indeed, we observe a p-value of 0.057. Nevertheless no conclusion can be made, on one hand, in early 2020 Covid-19 appeared, and everyone talked only about this.... Additionally,  this event cannot be taken as an independent event, like we observed before and after this “fateful month”  there were key events, like strikes made by young people in 2019, or the Paris Agreement in 2015. 
@@ -125,7 +129,7 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 
 <center> <h1>What are the medias that publish the most Climate Change related topic?</h1> </center>
 
-[//]: #  (<img src="assets/time.png" alt="time_news" width="210" style="float:left"/>)
+<img src="assets/time.png" alt="time_news" width="210" style="float:left"/>
 
 
 #### Connecting speakers and sites in an **al-gore-itmic embedding**.
@@ -205,9 +209,9 @@ After embedding each of the news sites, we turn to the embedding of concepts to 
 
 ### GS SCORE
 
-One question we’re often tasked with at Greenpeace is to understand which issues related to climate change we need to focus on. Do we find a very specialized issue that will be sympathetic to a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to **understand which issues are generally discussed, and which issues are highly specific**. To do this, we find the average cosine similarity to the center of mass for each topic in our embedding, and then find the average cosine similarity for all shares of the topic. A topic is widely shared if it is invoked in a lot of wide-ranging communities, and it is locally shared if it occurs in a very specific area of the embedding. 
+One question we’re often tasked with at Greenpeace is to understand which issues related to climate change we need to focus on. Do we find a very specialized issue that will be sympathetic to a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to understand which issues are generally discussed, and which issues are highly specific. To do this, we find the average cosine similarity to the center of mass for each topic in our embedding, and then find the average cosine similarity for all shares of the topic. A topic is widely shared if it is invoked in a lot of wide-ranging communities, and it is locally shared if it occurs in a very specific area of the embedding. 
        
-
+       
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -271,36 +275,31 @@ One question we’re often tasked with at Greenpeace is to understand which issu
 </table>
 
 
-### Projecting concept vectors
-Now that we know how general and specialist the topics are, we focused in on which sites care about which issues. When publishing or sharing our developments with specific news sites we need to know which audiences from which sites care about which aspects of climate change. This will allow us to focus in our information dissemination efforts to maximize the benefit the reader of the news site gets from our findings. We don’t want to speak the language of the reader, not in gibberish that’s likely to go over their head. 
-       
-Since each concept vector is projected in the same space as the actual newspapers, we can calculate the cosine similarity between the two vectors to measure alignment between the news site and the topic. Our findings align with what one would intuitively expect from this. When climate change is invoked, business sites are more likely to speak about trade and taxes, whereas international organizations like the UN focus on development and rising sea levels. 
-
-However, one finding that surprised is the role that Trump played in driving climate change discussion across many news sites. While himself a known climate denier, Trump’s outbursts themselves dramatically increased the number of discussions that took place surrounding climate change. We find that HuffPost and Fox News are far more aligned to Trump’s topic, than other pressing climate concerns like the global south and environmental impacts. Further analysis is needed to understand whether this new form of discussion is beneficial, but if the maxim “all publicity is good publicity”, then increased exposure to climate change discussion, regardless of origin will help our cause. Below we feature a visual that includes the issue alignment on several key issues for seven sites.  
-
-
-<img src="/assets/plots/news_interests.html" alt="news interests">
 
 
 
-### Connecting partisan scores to climate change issues
-To begin, we quantify the difference between the climate change discussion and all quotes more broadly. This will shine a light on the context in which climate change quotes occur. We find that climate change related quotes are more likely to occur in newspapers on the left than the right, and that the far right is also has a propensity of bringing up climate change. 
-
-<img src="/assets/plots/difference_plot.png" alt="difference plot">
 
 
-Duncan Watts’ famous finding that while both the left and the right consume science, the science they consume differs, raises an important question in our analysis. While both the left and the right may talk about climate change (the left more), does the type of conversation about climate change differ between the groups. If so, this will let us better target the individual news, or alternatively, speak the language of the audience. 
-To understand when the left and the right bring up climate change comments, we are required to analyze the textual level, falling back to our favourite LDA. Below we present a series of histograms of how different climate change topics differ along partisan lines. We find that when the right invokes climate change, it is most often brought up in the context of business, trade, or tax. In contrast, the left tends to focus more on development, rising sea levels, and temperature. 
-
-<img src="/assets/plots/topic_distribution.png" alt="topic distribution">
 
 
-### Polarization
-Statically, left leaning newspaper sites tend to speak about climate change more than right leaning sites. This result, while not surprising, does add to the increasing evidence we here at Greenpeace have found about the role politics plays in forming the views of the people. To better understand this dynamic we studied how different sites have used climate change in their discussions over time to answer the question of if climate change discussion has been polarized over the years. Ever since 2015, left-leaning news sites have been responsible for most of the discussion surrounding climate change, whereas the far-right sites quote an increasingly small portion of speakers who talk about climate change. The proportions have remained surprisingly static over time, with the left dominating the discussion. This is good news to us since it supports the argument that the discussion surrounding climate change is not becoming polarized. And, in fact, the centre sites are increasingly representing the discussion surrounding climate change. 
-
-<img src="/assets/plots/polarization.html" alt="topic distribution">
 
 
+
+Finally, what will be the most eficient media to talk about Climate Change? 
+Is it _Time_ as the poster could advance? 
+
+
+
+Let's play with embeddings, the hottest thing of the century !
+
+<iframe src='https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding' title='Interactive or visual content' width="100%" height="600px" ></iframe>
+ 
+
+ And....
+ 
+{% include plots/sample_plot.html %}
+
+<img src="/assets/plots/embedding-video.gif" alt="Alt text">
 
 <center> <h1>Conclusion and Implication</h1> </center>
 

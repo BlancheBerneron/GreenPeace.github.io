@@ -74,30 +74,27 @@ HEAT MAP
        
 This could already give us a hint of topics observe in the peaks. 
        
-### Is there an increasing tendency on Climate Change quotes frequency? 
+### Is there an increasing tendency on climate change quotes frequency? 
        
-When performing a linear trend curve, we observe a minimal increase of quotes per month, not statistically at all. 
+When performing a linear trend curve, we observe a minimal increase of quotes per month, not statistically at all. Indeed the slope is very low so it seems that the climate change discussion has not increased through the years. However, we observe that events triggering conversation about this topic make picks in the graph whereas in the periods of time with no events, climate change is not much quoted. This high variation on the number of quotes is responsible for the low slope through the years.
+      
+<center> <h1>Who talks about climate change? </h1> </center>
 
-       
-
-
-<center> <h1>Who talks about Climate Change? </h1> </center>
-
-Let’s now look into people that are most quoted in relation to Climate Change from the past 5 years.
-_Are the most quoted people for Climate Change talk **only** about Climate Change?_
+Let’s now look into people that are most quoted in relation to climate change from the past 5 years.
+_Are the most quoted people for climate change talk **only** about climate Change?_
 
 <div class="flourish-embed flourish-cards" data-src="visualisation/8165651"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
  **Figure 4:** Top most quoted speaker. 
 
-It seems that is not the case, but still it is a hot topic! Indeed, in adverage a third of speakers' quotes are about Climate Change. 
+It seems that is not the case, but still it is a hot topic! Indeed, in adverage a third of speakers' quotes are about climate change. 
 
 *Do you see a trend between most quoted speakers?* 
        
-You want to say that Politics speakes more about Climate change, right? 
-But if we observe Occupations of most quoted speakers about Climate Chnage over top occupation of most quoted speakers we have the following graph: 
+You want to say that Politics speakes more about climate change, right? 
+But if we observe Occupations of most quoted speakers about climate Chnage over top occupation of most quoted speakers we have the following graph: 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8163210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Politics are not significant quoted about only Climate Change!     
+Politics are not significant quoted about only climate change!     
 
 Ok, this wasn't faire, what about gender? Is there a gender that is quoting more climate change? 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8165365"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -115,7 +112,7 @@ And Religion?
 
 Ok, so in conclusion if you are a politic with this and this age nationality and , be sure that you will be hearded. 
 
-<center> <h1>What are the medias that publish the most Climate Change related topic?</h1> </center>
+<center> <h1>What are the medias that publish the most climate change related topic?</h1> </center>
 
 #### Connecting speakers and sites in an **al-gore-itmic embedding**.
        

@@ -127,6 +127,19 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Finally, what will be the most eficient media to talk about Climate Change? 
 Is it _Time_ as the poster could advance? 
 

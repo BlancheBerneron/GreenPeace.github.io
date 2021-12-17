@@ -109,8 +109,12 @@ You wan't to say that Politics speakes more about Climate change, right?
 But if we observe Occupations of most quoted speakers about Climate Chnage over top occupation of most quoted speakers we have the following graph: 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8163210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Politics are not significant quoted!     
-       
+Politics are not significant quoted about only Climate Change!     
+
+Ok, this wasn't faire, what about gender? Is there a gender that is quoting more climate change? 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8165365"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Yes, it seems than Man are more quoted, but it is also the case in the overall dataset, surprised? I don't think so? 
 Ok, this wasn't faire, what about Nationality? 
        
        

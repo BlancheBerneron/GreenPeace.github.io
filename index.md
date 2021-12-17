@@ -14,7 +14,7 @@ use-site-title: true
 *Attached you will find our final report.*
 
 ## Goal
-We want to create a productive awareness campaign about Climate Change. Thanks to the “Quotebank" database and open accessible data, our goal is to understand how the Climate Change topic has been spreaded through society in the last 5 years. In other words, when do people talk about it, who and on which platform? 
+We want to understand how to create a productive awareness campaign about climate change. Using innovative new datasets like “Quotebank" database and Robertson's website political scores, we aim to understand the climate change landscape in the media over the last five years.
 
 This article should serve as a head start for people searching how to target a Climate Change awareness campaign.
 

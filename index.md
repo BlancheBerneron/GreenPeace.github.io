@@ -7,9 +7,9 @@ cover-img: /assets/green-headlines.png
 use-site-title: true
 ---
 
-Dear Jennifer Morgan,
+*Dear Jennifer Morgan,*
 
-We want to thank you for letting us take on the challenge of better understanding the climate change landscape in the news. We believe that this data-driven approach can complement Greenpeace’s existing, more qualitative, methods and provide you with a coherent understanding of how the climate change discourse has evolved within the news. After three months of extensive research, we have reached the point where our findings will bring a tangible improvement to Greenpeace’s core mission: <core mission>.
+*We want to thank you for letting us take on the challenge of better understanding the climate change landscape in the news. We believe that this data-driven approach can complement Greenpeace’s existing, more qualitative, methods and provide you with a coherent understanding of how the climate change discourse has evolved within the news. After three months of extensive research, we have reached the point where our findings will bring a tangible improvement to Greenpeace’s core mission.*
 
 ## Goal
 We want to create a productive awareness campaign about Climate Change. Thanks to the “Quotebank" database and open accessible data, our goal is to understand how the Climate Change topic has been spreaded through society in the last 5 years. In other words, when do people talk about it, who and on which platform? 

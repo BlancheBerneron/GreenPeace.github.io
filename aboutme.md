@@ -10,7 +10,10 @@ Welcome to our website! We are 4 Applied Data Analysts who wish to vulgarize all
 
 We are DataAnalysist from Greenpeace who wish to make the world, a better place. 
 ## Let's present the Team 
-#### Venia: You will never find him in the same location, is he hidding? 
-#### Blanche: What is she doing again?
-#### Sandra: Embbeding specialist. 
-#### Belen : The major fan of the _Minimum_ function. 
+
+| Who?  | Funfact 
+| :------ |:------: |
+| Venia   |You will never find him in the same location, is he hidding? |
+| Blanche | What is she doing again? |
+| Sandra  |Embbeding specialist.  |
+| Belén   |The major fan of the _Minimum_ function.  |

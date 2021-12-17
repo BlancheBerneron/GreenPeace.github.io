@@ -290,14 +290,14 @@ However, one finding that surprised is the role that Trump played in driving cli
 To begin, we quantify the difference between the climate change discussion and all quotes more broadly. This will shine a light on the context in which climate change quotes occur. We find that climate change related quotes are more likely to occur in newspapers on the left than the right, and that the far right is also has a propensity of bringing up climate change. 
        
 
-<img src="/assets/plots/difference_plot.png" alt="difference plot" width="210" style="float:right"/>
+<img src="/assets/plots/difference_plot.png" alt="difference plot" width="800" style="float:right"/>
 
        
 Duncan Watts’ famous finding that while both the left and the right consume science, the science they consume differs, raises an important question in our analysis. While both the left and the right may talk about climate change (the left more), does the type of conversation about climate change differ between the groups. If so, this will let us better target the individual news, or alternatively, speak the language of the audience. 
 To understand when the left and the right bring up climate change comments, we are required to analyze the textual level, falling back to our favourite LDA. Below we present a series of histograms of how different climate change topics differ along partisan lines. We find that when the right invokes climate change, it is most often brought up in the context of business, trade, or tax. In contrast, the left tends to focus more on development, rising sea levels, and temperature. 
 
        
-<img src="/assets/plots/topic_distribution.png" alt="topic distribution" width="210" style="float:right"/>
+<img src="/assets/plots/topic_distribution.png" alt="topic distribution" width="800" style="float:right"/>
 
 
 

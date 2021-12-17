@@ -30,7 +30,7 @@ We wanted to have as much data as possible to have an accurate analysis. The fin
 
 
        Quotes                            Speakers                            Domains  
-       260'924                            178'716                             58'177 
+       260'924                            178'716                             7'782 
 
 
 {: .box-note}
@@ -111,9 +111,6 @@ And Religion?
 Ok, so in conclusion if you are a politic with this and this age nationality and , be sure that you will be hearded. 
 
 <center> <h1>What are the medias that publish the most Climate Change related topic?</h1> </center>
-
-#  (<img src="assets/time.png" alt="time_news" width="210" style="float:left"/>)
-
 
 #### Connecting speakers and sites in an **al-gore-itmic embedding**.
        

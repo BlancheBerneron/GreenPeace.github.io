@@ -104,12 +104,25 @@ _Are the most quoted people for Climate Change talk only about Climate Change?_
 
 It seems that is not the case, but still it is a hot topic! 
 
-Do you see a trend between most quoted speakers?
-
-<img title="Test" alt="Alt text" src="/assets/plots/test.png">
+Do you see a trend between most quoted speakers? 
        
+You wan't to say that Politics speakes more about Climate change, right? 
+But if we observe Occupations of most quoted speakers about Climate Chnage over top occupation of most quoted speakers we have the following graph: 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8163210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-ADD A IMAGE WITH PLOT OF DIFFERENTS FEATURES 
+Politics are not significant quoted!     
+       
+Ok, this wasn't faire, what about Nationality? 
+       
+       
+And Religion?       
+       
+#### Connecting speakers and sites in an **al-gore-itmic embedding**.
+       
+<a href="https://gifyu.com/image/SSN8w"><img src="https://s10.gifyu.com/images/embedding_video.gif" alt="embedding_video.gif" border="0" /></a>
+       
+       
+ ADD A IMAGE WITH PLOT OF DIFFERENTS FEATURES 
 The “type” person that is most quoted about the climate change is: 
  
 ADD IMAGE PEARSON WITH PIE CHARTS OF OCCUPATION, SEX, NATIONALITY,  RACE AND RELEGION
@@ -127,82 +140,6 @@ Ok, so in conclusion if you are  politic with this and this age nationality and 
 
 
 
-#### Connecting speakers and sites in an **al-gore-itmic embedding**.
-
-Understanding climate change related quotes requires uncovering both the speakers and where the quote takes place. We develop a high-fidelity embedding of news sources where similarity is measured by commonality in who the site quotes. **Two sites are then close if they share a lot of speakers, and far away if they have little similarity in the speakers**. Simply put, this embedding is created through a latent semantic analysis (PCA on the tf-idf matrix), where the documents are sites and words are speakers. 
-       
-The embedding is capable of effectively clustering news sites into coherent groups. The clusters are both based on topical similarity (fashion, sports, climate, news, and finance) and geographic proximity, which are captured in the KMeans clustering we do on the space. Here we include a small video of the embedding, but the full embedding can be played around with [here]('https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding). 
-       
-<a href="https://gifyu.com/image/SSN8w"><img src="https://s10.gifyu.com/images/embedding_video.gif" alt="embedding_video.gif" border="0" /></a>
-       
-Now Jennifer, at this point you may be wondering, "what the global warming does an embedding have to do with climate change?" It is better to show you than tell you why we used this representation. Below we include a few analyses that the embedding permitted us to conduct, that would not have been possible without it. 
-
-#### Developing climate topic vectors
-After embedding each of the news sites, we turn to the embedding of concepts to track the similarity between the sites and concepts. A concept embedding is an attempt to vectorize linguistic concepts in the speaker embedding. The concepts we aimed to embed were climate change, and various climate change subtopics found from LDA. Each concept is calculated as the weighted average of the communities that share climate change related quotes. 
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Website</th>
-      <th>domain</th>
-      <th>climate_projection</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>295</th>
-      <td>yaleclimateconnections.org</td>
-      <td>0.890519</td>
-    </tr>
-    <tr>
-      <th>303</th>
-      <td>climatecentral.org</td>
-      <td>0.884039</td>
-    </tr>
-    <tr>
-      <th>345</th>
-      <td>mongabay.com</td>
-      <td>0.830271</td>
-    </tr>
-    <tr>
-      <th>318</th>
-      <td>greenbiz.com</td>
-      <td>0.830028</td>
-    </tr>
-    <tr>
-      <th>300</th>
-      <td>desmogblog.com</td>
-      <td>0.829195</td>
-    </tr>
-    <tr>
-      <th>239</th>
-      <td>treehugger.com</td>
-      <td>0.807636</td>
-    </tr>
-    <tr>
-      <th>325</th>
-      <td>blueandgreentomorrow.com</td>
-      <td>0.804560</td>
-    </tr>
-    <tr>
-      <th>323</th>
-      <td>carbonbrief.org</td>
-      <td>0.802666</td>
-    </tr>
-    <tr>
-      <th>284</th>
-      <td>theenergycollective.com</td>
-      <td>0.800073</td>
-    </tr>
-    <tr>
-      <th>278</th>
-      <td>theclimategroup.org</td>
-      <td>0.791573</td>
-    </tr>
-  </tbody>
-</table>
-       
-       
 
 ### GS SCORE
 <table border="1" class="dataframe">

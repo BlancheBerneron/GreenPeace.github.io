@@ -13,6 +13,14 @@ use-site-title: true
 
 *Attached you will find our final report.*
 
+## Motivation
+>“Global warming is likely to be the greatest threat of the 21st century.” 
+As you all know, climate change refers to long-term shifts in temperatures and weather patterns. These shifts can be natural, such as through variations in the solar cycle. 
+Nevertheless, since the 1800s, human activities have been the [main driver of climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), more precisely in global warming. Indeed, in the last decades we observe a general increase in average temperatures of the Earth, which modifies the weather balances and ecosystems. At the pace of current CO2 emissions, scientists expect an increase of between 1.5° and 5.3°C in average temperature by 2100. If no action is taken, it would have harmful consequences to humanity and the biosphere. 
+
+All these previous scientific facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, simulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. This motivates our research today, how best can we understand 
+
+
 ## Goal
 We want to understand how to create a productive awareness campaign about climate change. Using innovative new datasets like “Quotebank" database and Robertson's website political scores, we aim to understand the climate change landscape in the media over the last five years.
 

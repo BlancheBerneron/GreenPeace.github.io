@@ -239,7 +239,7 @@ One question we’re often tasked with at Greenpeace is to understand which issu
     <tr>
       <th>biodiversity</th>
       <td>0.167376</td>
-    </tr
+    </tr>
     <tr>
       <th>eurozone</th>
       <td>0.328310</td>

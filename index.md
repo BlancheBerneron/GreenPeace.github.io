@@ -263,6 +263,7 @@ One question we’re often tasked with at Greenpeace is to understand which issu
 </table>
 
 
+
 ### Projecting concept vectors
 Now that we know how general and specialist the topics are, we focused in on which sites care about which issues. When publishing or sharing our developments with specific news sites we need to know which audiences from which sites care about which aspects of climate change. This will allow us to focus in our information dissemination efforts to maximize the benefit the reader of the news site gets from our findings. We don’t want to speak the language of the reader, not in gibberish that’s likely to go over their head. 
 

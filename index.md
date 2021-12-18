@@ -190,58 +190,36 @@ After embedding each of the news sites, we turn to the embedding of concepts. A 
 One question we’re often tasked with at Greenpeace is understanding which issues pertaining to climate change need our attention. Do we find a very specialized issue that will win the hearts of a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to **understand which issues are generally discussed, and which issues are highly specialized**. To do this, we find the average cosine similarity between the center of mass for each topic in our embedding, and the sites which talk about that topic. A topic is widely shared if it is invoked in a wide range of communities, and it is locally shared if it occurs in a very specific area of the embedding.  
        
        
-<div align="center">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
-      <th>GS Score</th>
+      <th>Most specialized</th>
+      <th>Most generalized</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>society</th>
-      <td>0.149831</td>
+      <td>society</td>
+      <td>eurozone</td>
     </tr>
     <tr>
-      <th>concern</th>
-      <td>0.153984</td>
+      <td>concern</td>
+      <td>models</td>
     </tr>
     <tr>
-      <th>reduction</th>
-      <td>0.155351</td>
+      <td>reduction</td>
+      <td>tax/trade</td>
     </tr>
     <tr>
-      <th>power/footprint</th>
-      <td>0.164052</td>
+      <td>power/footprint</td>
+      <td>trump</td>
     </tr>
     <tr>
-      <th>biodiversity</th>
-      <td>0.167376</td>
-    </tr
-    <tr>
-      <th>eurozone</th>
-      <td>0.328310</td>
-    </tr>
-    <tr>
-      <th>models</th>
-      <td>0.316398</td>
-    </tr>
-    <tr>
-      <th>tax/trade</th>
-      <td>0.314999</td>
-    </tr>
-    <tr>
-      <th>trump</th>
-      <td>0.312403</td>
-    </tr>
-    <tr>
-      <th>science</th>
-      <td>0.276532</td>
+      <td>biodiversity</td>
+      <td>science</td>
     </tr>
   </tbody>
 </table>
-</div>
 **Table 2:** *Most generalist and specialist climate topics*
 
 ### Projecting concept vectors

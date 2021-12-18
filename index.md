@@ -9,7 +9,7 @@ use-site-title: true
 
 *Dear Jennifer Morgan,*
 
-*We want to thank you for letting us take on the challenge of better understanding the climate change landscape in the news. We believe that this data-driven approach can complement Greenpeace’s existing, more qualitative, methods and provide you with a coherent understanding of how the climate change discourse has evolved within the news. After three months of extensive research, we have reached the point where our findings will bring a tangible improvement to Greenpeace’s core mission.*
+*We want to thank you for letting us take on the challenge of better understanding the climate change landscape in the news. We believe that this data-driven approach can complement Greenpeace’s existing -- more qualitative -- methods and provide you with a coherent understanding of how the climate change discourse has evolved within the news. After three months of extensive research, we have reached the point where our findings will bring a tangible improvement to Greenpeace’s core mission.*
 
 *Attached you will find our final report.*
 
@@ -18,29 +18,27 @@ use-site-title: true
 
 
 As you all know, climate change refers to long-term shifts in temperatures and weather patterns. These shifts can be natural, such as through variations in the solar cycle. 
-Nevertheless, since the 1800s, human activities have been the [main driver of climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), more precisely in global warming. Indeed, in the last decades we observe a general increase in average temperatures of the Earth, which modifies the weather balances and ecosystems. At the pace of current CO2 emissions, scientists expect an increase of between 1.5° and 5.3°C in average temperature by 2100. If no action is taken, it would have harmful consequences to humanity and the biosphere. 
+Nevertheless, since the 1800s, human activities have been the [main driver of climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), more precisely in global warming. Indeed, in the last decades we observe a general increase in average temperatures of the Earth, which modifies the weather balances and ecosystems. At the pace of current CO2 emissions, scientists expect an increase of between 1.5° and 5.3°C in average temperature by 2100. If no action is taken, it will have harmful consequences to humanity and the biosphere. 
 
-All these previous scientific facts need to be vulgarized and reach the general population to all act in an eco-responsible way in their daily life.  Public awareness is important to increase enthusiasm and support, simulate self-mobilisation and action, and mobilise local knowledge and resources. Raising political awareness is important as policy makers and politicians are key actors in the policy process of adaptation. This motivates our research today, how best can we understand 
+It is critical that these scientific *facts* be widely dissimenated and understood by the general population. This will empower the public to take the necessary steps to curb climate change and reduce their carbon footprint. This topic is hugely relevant today and for future generaitons, and it is critical that we understand how the media discusses climate change to form our campaigns and future research efforts. 
 
 
 ## Goal
-We want to understand how to create a productive awareness campaign about climate change. Using innovative new datasets like “Quotebank" database and Robertson's website political scores, we aim to understand the climate change landscape in the media over the last five years.
-
-This article should serve as a head start for people searching how to target a Climate Change awareness campaign.
+We want to understand how to create a productive awareness campaign about climate change. Using “Quotebank" and Robertson's website political scores, we quantify the climate change landscape in the media over the last five years. This article will serve as our foundation when forming our future climate change awareness campaigns. 
 
 
 
 ## Research Questions
-During this article we will answer to the following questions:
+Throughout this article we will answer the following questions:
 * What were the topics and events that triggered conversation about climate change?
-* Who are the main personalities driving the climate change topic?
+* Who are the main personalities driving the climate change discussion?
 * Which news sites focus most on climate change?
-       * Which news sites focus on what issues?
+       * What issues do they focus on?
 * How are the issues politicized?
-* Is climate change getting more polarzied? 
+* Is climate change getting more polarized? 
        
-## How we did it
-We built our dataset from Quotebank, an open corpus of 178 million quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published between 2008 and 2020. Additionally, we filtered the dataset and took only climate change related quotes.
+## The data
+We built our dataset from Quotebank, an open corpus of 178 million quotations attributed to the speakers who uttered them. These quotes were extracted from 162 million English news articles published between 2015 and 2020. Additionally, we filtered the dataset and took only climate change related quotes.
 
 We wanted to have as much data as possible to have an accurate analysis. The final climate change database is composed of: 
 
@@ -51,86 +49,76 @@ We wanted to have as much data as possible to have an accurate analysis. The fin
 
 {: .box-note}
        
-#### Now let's turn to understanding the data! 
+#### Now let's turn to analyzing the data! 
 
-<center> <h1>Is conversion about Climate Change constant over time?</h1> </center>
+<center> <h1>Is conversation about climate change constant over time?</h1> </center>
 
-### Frecuency of Climate Change Quotes 
-Let's start really brodly by analysing the evolution of climate change quotes in the last 5 years. 
+Let's start broadly by analysing the evolution of climate change quotes in the last 5 years:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8162290"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
- **Figure 1:** Number of quotes about climate change over time.  
-       
-The major local and global peaks observed on the graph are the following: 
+ **Figure 1:** *Number of quotes about climate change over time.*  
 
-* November 2015 : According to WikiTimeline "Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks." 
-* June 2017 : Accordint to WikiTimeline the 1st of June "United States withdrawal from the Paris Agreement"
-* June 2019:  Accordint to WikiTimeline "The House of Representatives of the Netherlands passes the final bill of the climate agreement. The goal of the accord is to have the level of greenhouse gasses in the atmosphere in 2030 the same as the level of greenhouse gasses in the atmosphere in 1990."
-* September 2019:  According to WikiTimeline "Millions of young people take to the streets and numerous businesses worldwide go on strike days before the UN Climate Summit, demanding that further action be taken to confront climate change." 
+We see that the climate change discussion has evolved over the years, featuring several peaks that correspond to key events taking place globally. 
+We aim to track these key events by analyzing events that took place throughout the years. 
+
+* November 2015 : According to WikiTimeline, "Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks." 
+* June 2017 : According to WikiTimeline, the 1st of June "United States withdrawal from the Paris Agreement"
+* June 2019:  According to WikiTimeline, "The House of Representatives of the Netherlands passes the final bill of the climate agreement. The goal of the accord is to have the level of greenhouse gasses in the atmosphere in 2030 the same as the level of greenhouse gasses in the atmosphere in 1990."
+* September 2019:  According to WikiTimeline, "Millions of young people take to the streets and numerous businesses worldwide go on strike days before the UN Climate Summit, demanding that further action be taken to confront climate change." 
        
-Can we trust our gut? Let's find out. 
       
 ### Main Topics of Climate Change 
  
 {: .box-}
-**Technological aside:** Thanks to LDA we are able to determine different topics in Climate Change Quotes! 
+**Technological aside:** Thanks to LDA we are able to determine different topics within the climate change quote! 
+
+If there is one thing Greenpeace knows it's that the way climate change is invoked can vary widely. Some people may focus on its business implications, others will be more concerned with the environmental consequences. To better grasp this nuance, we run topic modelling to uncover some of the latent concepts that are invoked with climate change. Below are the thirty topics we found, alongside the top 20 words for each topic.  
  
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8156209"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
- **Figure 2:** Topics generated by LDA algorithme with constraint: 30 topics to find.
+ **Figure 2:** 30 topics and the top 20 words in each topic.
        
-We observe a diversity of subtopics like financial, environmental, society, political aspects and many more. These topics uncover the subtext that is present when climate change quotes are invoked. 
+We observe a diversity of subtopics like financial, environmental, society, political aspects and many more. **These topics uncover the subtext that is present when climate change quotes are invoked.**
        
 By understanding the issues that are intrinsic to climate change, we will be able to see which issues have been raised at which time.
        
-### Topic Trough time
+### Evolution of topics over time
 
 <img src="assets/plots/topic_evolution.png" alt="topic distribution" width="600"/>
 
-**Figure 3:** Topics generated by LDA algorithme with constraint: 30 topics to find. 
-       
-This could already give us a hint of topics observe in the peaks. As expected we observed that the Paris agreement was a hot topic in November 2015!  
-But not only, sustainability as well. 
-
-Ok, let's check by date. The semantics of the Eurozone was the main topic of climate change for the first month. As sustainability for the second part of the year. 
-
-Do not pay much attention to the white lines that appear in 2016. It seems that the database has some data missing. 
-
-For the next period we see that the main topics of climate change (gases, impact on vulnerability, power, footprint and sustainability ) are pretty constant over time. But topics related to events like the Paris Agreement,  the strikes in 2019 or even what Trump said are hot topics when the event occurs but it is not constant over the timeline.  
+**Figure 3:** *Monthly occurance of topics between 2015 and 2020. The database is missing data for a few months in 2016.*
 
        
-### Is there an increasing tendency on climate change quotes frequency? 
+Tracking the evolution of climate interest reveals hot-topics and how they evolve. For example, while the Paris Agreement was a hot-topic in November 2015 and 2017 (when Trump pulled out), its interest declined in other months. On the other hand, interest for sustainability and finance tends to persist more consistently. Additionally, the Eurozone and Europe were key issues with climate change in the beginning of 2015. 
+
+
+In general, we find that pressing issues like gases, impact on vulnerability, power, footprint and sustainability have a lasting interest. But topics related to events like the Paris Agreement, the strikes in 2019, or even what Trump receive less consistent attention. 
+
        
-When performing a linear trend curve, we observe a minimal increase of quotes per month, not statistically at all. Indeed the slope is very low so it seems that the climate change discussion has not increased through the years. However, we observe that events triggering conversation about this topic make picks in the graph whereas in the periods of time with no events, climate change is not much quoted. This high variation on the number of quotes is responsible for the low slope through the years.
+### Are more people talking about climate change? 
+       
+We performed a linear trend curve and observed a minimal increase of quotes per month that was not statistically significant. Indeed, the flat slope indicates that climate change did not see a large increase throughout the years. Furthermore, the spikes in the graph reveal the events the trigger conversation about climate change.  
       
 <center> <h1>Who talks about climate change? </h1> </center>
 
-Let’s now look into people that are most quoted in relation to climate change from the past 5 years.
-_Are the most quoted people for climate change talk **only** about climate Change?_
+Over the last five years, here are the people that were most quoted in relation to climate change:
+
+_Do the most quoted people talk mostly about climate change?_
 
 <div class="flourish-embed flourish-cards" data-src="visualisation/8165651"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
- **Figure 4:** Top most quoted speaker. 
+ **Figure 4:** *Most quoted speakers.*
 
-It seems that is not the case, but still it is a hot topic! Indeed, in adverage a third of speakers' quotes are about climate change. 
+It seems not! Surprisingly, on average a third of speakers' quotes are about climate change. 
 
-*Do you see a trend between most quoted speakers?* 
-       
-You want to say that Politics speakes more about climate change, right? 
-But if we observe Occupations of most quoted speakers about climate Chnage over top occupation of most quoted speakers we have the following graph: 
+*Are there trends between the most quoted speakers?* 
+To answer this question we delve into the backgrounds of the speakers on climate change. Metadata on the speakers was extracted from Wikidata, a large knowledge base containing volunteer-inputed information about entities. Connecting to Wikidata is computationally intensive so we limited to the top 100 speakers about climate change, and the top 100 speakers in all of quotebank to study these dynamics. We assumed that by looking at how the top 100 speakers differ between these two groups, we could uncover what the average person who discusses climate change looks like, and how they deviate from the speaker-norm. 
+
+In general politicians seem to be most quoted discussing climate change, followed closely by lawyers, businesspeople, and writers. 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8163210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+**Figure 5:** *Top occupations among speakers.*
 
-Politics are not significant quoted about only climate change!     
+<center> <h1>Who said "embedding"?</h1> </center>
 
-Ok, this wasn't faire, what about gender? Is there a gender that is quoting more climate change? 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8165365"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-**Figure 5:** Top occupations among speakers. 
-       
-Yes, it seems than Man are more quoted, but it is also the case in the overall dataset, surprised? I don't think so? 
-
-Ok, so in conclusion if you are a politic and male , be sure that you will be hearded. 
-
-<center> <h1>What are the medias that publish the most climate change related topic?</h1> </center>
-
-#### Connecting speakers and sites in an **al-gore-itmic embedding**.
+#### Connecting speakers and sites in an **al-gore-ithmic embedding**.
        
 Understanding climate change related quotes requires uncovering both the speakers and where the quote takes place. We develop a high-fidelity embedding of news sources where similarity is measured by commonality in who the site quotes. **Two sites are then close if they share a lot of speakers, and far away if they have little similarity in the speakers**. Simply put, this embedding is created through a latent semantic analysis (PCA on the tf-idf matrix), where the documents are sites and words are speakers. 
 
@@ -138,84 +126,76 @@ The embedding is capable of effectively clustering news sites into coherent grou
 
 <a href="https://gifyu.com/image/SSN8w"><img src="https://s10.gifyu.com/images/embedding_video.gif" alt="embedding_video.gif" border="0" /></a>
 
-Now Jennifer, at this point you may be wondering, "what the global warming does an embedding have to do with climate change?" It is better to show you than tell you why we used this representation. Below we include a few analyses that the embedding permitted us to conduct, that would not have been possible without it. 
+Now Jennifer, at this point you may be wondering, "What the embedding is going on?!" It is better to show than tell, why we used this representation. Thanks to the embedding (without which it would not have been imaginable), we were able to conduct numerous analyes. 
 
 #### Developing climate topic vectors
-After embedding each of the news sites, we turn to the embedding of concepts to track the similarity between the sites and concepts. A concept embedding is an attempt to vectorize linguistic concepts in the speaker embedding. The concepts we aimed to embed were climate change, and various climate change subtopics found from LDA. Each concept is calculated as the weighted average of the communities that share climate change related quotes. 
+After embedding each of the news sites, we turn to the embedding of concepts. A concept embedding is an attempt to vectorize linguistic concepts in the speaker space. The concepts we aimed to embed were climate change, and various climate change subtopics found from LDA. Each concept is calculated as the weighted average of the communities that share the concept related quote. Below we include the ten sites that projected highest onto the climate change vector. 
 
+<div align="center" style="text-align:center">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>Website</th>
       <th>domain</th>
       <th>climate_projection</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>295</th>
       <td>yaleclimateconnections.org</td>
       <td>0.890519</td>
     </tr>
     <tr>
-      <th>303</th>
       <td>climatecentral.org</td>
       <td>0.884039</td>
     </tr>
     <tr>
-      <th>345</th>
       <td>mongabay.com</td>
       <td>0.830271</td>
     </tr>
     <tr>
-      <th>318</th>
       <td>greenbiz.com</td>
       <td>0.830028</td>
     </tr>
     <tr>
-      <th>300</th>
       <td>desmogblog.com</td>
       <td>0.829195</td>
     </tr>
     <tr>
-      <th>239</th>
       <td>treehugger.com</td>
       <td>0.807636</td>
     </tr>
     <tr>
-      <th>325</th>
       <td>blueandgreentomorrow.com</td>
       <td>0.804560</td>
     </tr>
     <tr>
-      <th>323</th>
       <td>carbonbrief.org</td>
       <td>0.802666</td>
     </tr>
     <tr>
-      <th>284</th>
       <td>theenergycollective.com</td>
       <td>0.800073</td>
     </tr>
     <tr>
-      <th>278</th>
       <td>theclimategroup.org</td>
       <td>0.791573</td>
     </tr>
   </tbody>
 </table>
+</div>
+**Table 1:** Top ten sites by projection on the climate vector. . 
 
+### Specialized or generalized! How widely discusses are the topics? 
 
-### How generalist and specialist are the topics! 
-
-One question we’re often tasked with at Greenpeace is to understand which issues related to climate change we need to focus on. Do we find a very specialized issue that will be sympathetic to a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to **understand which issues are generally discussed, and which issues are highly specific**. To do this, we find the average cosine similarity to the center of mass for each topic in our embedding, and then find the average cosine similarity for all shares of the topic. A topic is widely shared if it is invoked in a lot of wide-ranging communities, and it is locally shared if it occurs in a very specific area of the embedding.  
+One question we’re often tasked with at Greenpeace is understanding which issues pertaining to climate change need our attention. Do we find a very specialized issue that will win the hearts of a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to **understand which issues are generally discussed, and which issues are highly specialized**. To do this, we find the average cosine similarity between the center of mass for each topic in our embedding, and the sites which talk about that topic. A topic is widely shared if it is invoked in a wide range of communities, and it is locally shared if it occurs in a very specific area of the embedding.  
        
-
+       
+<div align="center">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>gs_score</th>
+      <th>GS Score</th>
     </tr>
   </thead>
   <tbody>
@@ -238,7 +218,7 @@ One question we’re often tasked with at Greenpeace is to understand which issu
     <tr>
       <th>biodiversity</th>
       <td>0.167376</td>
-    </tr>
+    </tr
     <tr>
       <th>eurozone</th>
       <td>0.328310</td>
@@ -261,41 +241,46 @@ One question we’re often tasked with at Greenpeace is to understand which issu
     </tr>
   </tbody>
 </table>
-
-
+</div>
+**Table 2:** *Most generalist and specialist climate topics*
 
 ### Projecting concept vectors
-Now that we know how general and specialist the topics are, we focused in on which sites care about which issues. When publishing or sharing our developments with specific news sites we need to know which audiences from which sites care about which aspects of climate change. This will allow us to focus in our information dissemination efforts to maximize the benefit the reader of the news site gets from our findings. We don’t want to speak the language of the reader, not in gibberish that’s likely to go over their head. 
+Now that we know how generalized and specialized the topics are, we assess which sites care about which issues. When publishing or sharing our developments with specific news sites we need to develop a persona for the audience of that site, to know which climate related concept is important to them. By doing this, we can maximize our efforts to disseminate information the reader will find most beneficial. We want to speak the language of the reader, not in gibberish that’s likely to go over their head. 
 
-Since each concept vector is projected in the same space as the actual newspapers, we can calculate the cosine similarity between the two vectors to measure alignment between the news site and the topic. Our findings align with what one would intuitively expect from this. When climate change is invoked, business sites are more likely to speak about trade and taxes, whereas international organizations like the UN focus on development and rising sea levels. 
+Since each concept vector is projected in the same space as the actual site, we can calculate the cosine similarity between the two vectors to measure alignment between the news site and the topic. Our findings are in line with what one would intuitively expect. When climate change is invoked, business sites are more likely to speak about trade and taxes, whereas international organizations like the UN focus on development and rising sea levels. 
 
-However, one finding that surprised is the role that Trump played in driving climate change discussion across many news sites. While himself a known climate denier, Trump’s outbursts themselves dramatically increased the number of discussions that took place surrounding climate change. We find that HuffPost and Fox News are far more aligned to Trump’s topic, than other pressing climate concerns like the global south and environmental impacts. Further analysis is needed to understand whether this new form of discussion is beneficial, but if the maxim “all publicity is good publicity”, then increased exposure to climate change discussion, regardless of origin will help our cause. Below we feature a visual that includes the issue alignment on several key issues for seven sites.  
-
+However, one finding that surprised is the role that Trump played in driving climate change discussion across many news sites. While himself a known climate change denalist, Trump’s outbursts dramatically increased the number of discussions that took place surrounding climate change. We find that HuffPost and Fox News are far more likely to discuss climate change alongside Trump, rather than other pressing climate concerns like the global south and environmental impacts. Further analysis is needed to understand whether this new form of discussion is beneficial, but if the maxim “all publicity is good publicity” holds, then increased exposure to climate change discussion -- regardless of origin -- will help our cause. Below we feature a visual that includes the issue alignment on several key issues for seven sites.  
 
 {% include plots/news_interests.html %}
+**Figure 6:** *Topic interests by news site*
+
 
 ### Connecting partisan scores to climate change issues
-To begin, we quantify the difference between the climate change discussion and all quotes more broadly. This will shine a light on the context in which climate change quotes occur. We find that climate change related quotes are more likely to occur in newspapers on the left than the right, and that the far right is also has a propensity of bringing up climate change. 
+To begin, we quantify the difference between the climate change discussion and all quotes more broadly. This will shine a light on the context in which climate change quotes occur. We find that climate change related quotes are more likely to occur in newspapers on the left than the right, and that the far right also has a propensity of bringing up climate change. 
        
 <img src="assets/plots/difference_plot.png" alt="topic distribution" width="700"/>
-       
-Duncan Watts’ famous finding that while both the left and the right consume science, the science they consume differs, raises an important question in our analysis. While both the left and the right may talk about climate change (the left more), does the type of conversation about climate change differ between the groups. If so, this will let us better target the individual news, or alternatively, speak the language of the audience. 
-To understand when the left and the right bring up climate change comments, we are required to analyze the textual level, falling back to our favourite LDA. Below we present a series of histograms of how different climate change topics differ along partisan lines. We find that when the right invokes climate change, it is most often brought up in the context of business, trade, or tax. In contrast, the left tends to focus more on development, rising sea levels, and temperature. 
+**Figure 7:** *How climate quotes differ from all quotes on the partisan axis. Lower means further to the left politically. Higher means further to the right politcally. As we can see, climate quotes take place more on the left than the right.*
+ 
+      
+Duncan Watts’ famous finding that while both the left and the right consume science, the science they consume differs, raises an important question in our analysis. While both the left and the right may discuss climate change (the left invokes it more), does the type of conversation about climate change differ between the groups? If so, understanding this dynamic will enable us to better target the individual news sites and/or speak the language of the audience. 
+
+To understand when the left and the right bring up climate change comments, we are required to analyze the textual level, relying on our favourite LDA. Below we present a series of histograms that present how climate change topics differ along partisan lines. We find that when the right invokes climate change, it is most often brought up in the context of business, trade, or tax. In contrast, the left tends to focus more on development, rising sea levels, and temperature. 
 
        
 <img src="assets/plots/topic_distribution.png" alt="topic distribution" width="700"/>
+**Figure 8:** *Partisan distribution of topics*
 
 ### Polarization
-Statically, left leaning newspaper sites tend to speak about climate change more than right leaning sites. This result, while not surprising, does add to the increasing evidence we here at Greenpeace have found about the role politics plays in forming the views of the people. To better understand this dynamic we studied how different sites have used climate change in their discussions over time to answer the question of if climate change discussion has been polarized over the years. Ever since 2015, left-leaning news sites have been responsible for most of the discussion surrounding climate change, whereas the far-right sites quote an increasingly small portion of speakers who talk about climate change. The proportions have remained surprisingly static over time, with the left dominating the discussion. This is good news to us since it supports the argument that the discussion surrounding climate change is not becoming polarized. And, in fact, the centre sites are increasingly representing the discussion surrounding climate change. 
+Statically, left leaning newspaper sites tend to speak about climate change more than right leaning sites. This result, while not surprising, does add to the increasing evidence we here at Greenpeace have found about the role politics play in forming the views of the people. To better understand this dynamic **we studied how different sites have used climate change in their discussions over time to answer the question of whether climate change discussion has been polarized over the years**. Ever since 2015, left-leaning news sites have been responsible for most of the discussion surrounding climate change, whereas the far-right sites quote an increasingly small portion of speakers who talk about climate change. The proportions have remained surprisingly static over time, with the left dominating the discussion. We believe this to be a positive finding since it supports the argument that the discussion surrounding climate change is not becoming polarized. And, in fact, the centrist sites are increasingly representing the discussion surrounding climate change as evidenced by the plot below. 
 
 {% include plots/polarization.html %}
+**Figure 9:** *Climate discussion polarization over time.*
 
 
 <center> <h1>Conclusion and Implication</h1> </center>
 
 {: .box-note}
-**Side note:** If you encounter climate skeptics in your way, you will find useful arguments [here](https://350.org/fr/).  
        
-In this report we presented our analysis of climate change in the media. We find that climate change discussion has been remained fairly static over the last five years, seeing a minor rise in the end of 2019 into 2020. Key events like the Paris Agreement and Trump’s language drive public discussion around the topic, and the frequency of quotes increases dramatically. 
-PROVIDE A CONCLUSION ON PEOPLE IF IT OCCURS
+In this report we presented our analysis of climate change in the media. We find that climate change discussion has been remained fairly static over the last five years, seeing a minor rise in the end of 2019 into 2020. Key events like the Paris Agreement and Trump’s language drive public discussion around the topic, and the frequency of quotes increases dramatically. The top 100 climate speakers tend to be politicians, writers, and lawyers. 
+
 Finally, we developed an embedding technique to deepen our understanding of climate change in the news. This embedding technique provided us a new lens for studying climate change in the news, where each site was represented as a point in a high-dimensional vector space with two sites close together if they share a lot of the same speakers. This embedding was used to augment our understanding of the topics that were discussed and study how sites formed distinct clusters.

@@ -112,11 +112,10 @@ _Do the most quoted people talk mostly about climate change?_
 It seems not! Surprisingly, on average a third of speakers' quotes are about climate change. 
 
 *Are there trends between the most quoted speakers?* 
-To answer this question we delve into the backgrounds of the speakers on climate change. Metadata on the speakers was extracted from Wikidata, a large knowledge base containing volunteer-inputed information about entities. Connecting to Wikidata is computationally intensive so we limited to the top 100 speakers about climate change, and the top 100 speakers in all of quotebank to study these dynamics. We assumed that by looking at how the top 100 speakers differ between these two groups, we could uncover what the average person who discusses climate change looks like, and how they deviate from the speaker-norm. 
+To answer this question we delve into the backgrounds of the speakers on climate change. Metadata on the speakers was extracted from Wikidata, a large knowledge base containing volunteer-inputed information about entities. We find that climatologists and scientists more generally are more likely to be quoted about climate change, whereas athletes and artists are less likely to speak about climate change.
 
-In general politicians seem to be most quoted discussing climate change, followed closely by lawyers, businesspeople, and writers. 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8163210"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-**Figure 5:** *Top occupations among speakers.*
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8173554"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+**Figure 5:** *Top 5 and bottom 5 occupations among speakers, as a proportion of their quotes that revolve around climate change.*
 
 <center> <h1>Who said "embedding"?</h1> </center>
 

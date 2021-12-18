@@ -56,6 +56,7 @@ We wanted to have as much data as possible to have an accurate analysis. The fin
 Let's start broadly by analysing the evolution of climate change quotes in the last 5 years:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8162290"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
  **Figure 1:** *Number of quotes about climate change over time.*  
 
 We see that the climate change discussion has evolved over the years, featuring several peaks that correspond to key events taking place globally. 
@@ -75,6 +76,7 @@ We aim to track these key events by analyzing events that took place throughout 
 If there is one thing Greenpeace knows it's that the way climate change is invoked can vary widely. Some people may focus on its business implications, others will be more concerned with the environmental consequences. To better grasp this nuance, we run topic modelling to uncover some of the latent concepts that are invoked with climate change. Below are the thirty topics we found, alongside the top 20 words for each topic.  
  
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8156209"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
  **Figure 2:** 30 topics and the top 20 words in each topic.
        
 We observe a diversity of subtopics like financial, environmental, society, political aspects and many more. **These topics uncover the subtext that is present when climate change quotes are invoked.**
@@ -220,6 +222,7 @@ One question we’re often tasked with at Greenpeace is understanding which issu
     </tr>
   </tbody>
 </table>
+
 **Table 2:** *Most generalist and specialist climate topics*
 
 ### Projecting concept vectors
@@ -230,10 +233,12 @@ Since each concept vector is projected in the same space as the actual site, we 
 However, one finding that surprised is the role that Trump played in driving climate change discussion across many news sites. While himself a known climate change denalist, Trump’s outbursts dramatically increased the number of discussions that took place surrounding climate change. We find that HuffPost and Fox News are far more likely to discuss climate change alongside Trump, rather than other pressing climate concerns like the global south and environmental impacts. Further analysis is needed to understand whether this new form of discussion is beneficial, but if the maxim “all publicity is good publicity” holds, then increased exposure to climate change discussion -- regardless of origin -- will help our cause. Below we feature a visual that includes the issue alignment on several key issues for seven sites.  
 
 {% include plots/news_interests.html %}
+
 **Figure 6:** *Topic interests by news site*
 
 
 ### Connecting partisan scores to climate change issues
+
 To begin, we quantify the difference between the climate change discussion and all quotes more broadly. This will shine a light on the context in which climate change quotes occur. We find that climate change related quotes are more likely to occur in newspapers on the left than the right, and that the far right also has a propensity of bringing up climate change. 
        
 <img src="assets/plots/difference_plot.png" alt="topic distribution" width="700"/>
@@ -246,12 +251,17 @@ To understand when the left and the right bring up climate change comments, we a
 
        
 <img src="assets/plots/topic_distribution.png" alt="topic distribution" width="700"/>
+
+
 **Figure 8:** *Partisan distribution of topics*
 
+
 ### Polarization
+
 Statically, left leaning newspaper sites tend to speak about climate change more than right leaning sites. This result, while not surprising, does add to the increasing evidence we here at Greenpeace have found about the role politics play in forming the views of the people. To better understand this dynamic **we studied how different sites have used climate change in their discussions over time to answer the question of whether climate change discussion has been polarized over the years**. Ever since 2015, left-leaning news sites have been responsible for most of the discussion surrounding climate change, whereas the far-right sites quote an increasingly small portion of speakers who talk about climate change. The proportions have remained surprisingly static over time, with the left dominating the discussion. We believe this to be a positive finding since it supports the argument that the discussion surrounding climate change is not becoming polarized. And, in fact, the centrist sites are increasingly representing the discussion surrounding climate change as evidenced by the plot below. 
 
 {% include plots/polarization.html %}
+
 **Figure 9:** *Climate discussion polarization over time.*
 
 

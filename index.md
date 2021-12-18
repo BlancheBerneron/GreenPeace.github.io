@@ -143,7 +143,6 @@ Now Jennifer, at this point you may be wondering, "what the global warming does 
 #### Developing climate topic vectors
 After embedding each of the news sites, we turn to the embedding of concepts to track the similarity between the sites and concepts. A concept embedding is an attempt to vectorize linguistic concepts in the speaker embedding. The concepts we aimed to embed were climate change, and various climate change subtopics found from LDA. Each concept is calculated as the weighted average of the communities that share climate change related quotes. 
 
-<div align="center" style="text-align:center">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -205,7 +204,7 @@ After embedding each of the news sites, we turn to the embedding of concepts to 
     </tr>
   </tbody>
 </table>
-</div>
+
 
 ### How generalist and specialist are the topics! 
 

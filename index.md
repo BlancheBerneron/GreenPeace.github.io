@@ -212,8 +212,7 @@ After embedding each of the news sites, we turn to the embedding of concepts to 
 One question we’re often tasked with at Greenpeace is to understand which issues related to climate change we need to focus on. Do we find a very specialized issue that will be sympathetic to a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to **understand which issues are generally discussed, and which issues are highly specific**. To do this, we find the average cosine similarity to the center of mass for each topic in our embedding, and then find the average cosine similarity for all shares of the topic. A topic is widely shared if it is invoked in a lot of wide-ranging communities, and it is locally shared if it occurs in a very specific area of the embedding.  
        
        
-       
-<div align="center" style="text-align:center">
+<div align="center">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -264,7 +263,7 @@ One question we’re often tasked with at Greenpeace is to understand which issu
     </tr>
   </tbody>
 </table>
- </div>
+</div>
 
 ### Projecting concept vectors
 Now that we know how general and specialist the topics are, we focused in on which sites care about which issues. When publishing or sharing our developments with specific news sites we need to know which audiences from which sites care about which aspects of climate change. This will allow us to focus in our information dissemination efforts to maximize the benefit the reader of the news site gets from our findings. We don’t want to speak the language of the reader, not in gibberish that’s likely to go over their head. 

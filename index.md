@@ -143,6 +143,7 @@ Now Jennifer, at this point you may be wondering, "what the global warming does 
 #### Developing climate topic vectors
 After embedding each of the news sites, we turn to the embedding of concepts to track the similarity between the sites and concepts. A concept embedding is an attempt to vectorize linguistic concepts in the speaker embedding. The concepts we aimed to embed were climate change, and various climate change subtopics found from LDA. Each concept is calculated as the weighted average of the communities that share climate change related quotes. 
 
+<div align="center" style="text-align:center">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -204,6 +205,7 @@ After embedding each of the news sites, we turn to the embedding of concepts to 
     </tr>
   </tbody>
 </table>
+</div>
 
 ### How generalist and specialist are the topics! 
 
@@ -211,7 +213,7 @@ One question we’re often tasked with at Greenpeace is to understand which issu
        
        
        
-
+<div align="center" style="text-align:center">
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -239,19 +241,7 @@ One question we’re often tasked with at Greenpeace is to understand which issu
     <tr>
       <th>biodiversity</th>
       <td>0.167376</td>
-    </tr>
-  </tbody>
-</table>
-       
-       
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>gs_score</th>
-    </tr>
-  </thead>
-  <tbody>
+    </tr
     <tr>
       <th>eurozone</th>
       <td>0.328310</td>
@@ -274,6 +264,7 @@ One question we’re often tasked with at Greenpeace is to understand which issu
     </tr>
   </tbody>
 </table>
+ </div>
 
 ### Projecting concept vectors
 Now that we know how general and specialist the topics are, we focused in on which sites care about which issues. When publishing or sharing our developments with specific news sites we need to know which audiences from which sites care about which aspects of climate change. This will allow us to focus in our information dissemination efforts to maximize the benefit the reader of the news site gets from our findings. We don’t want to speak the language of the reader, not in gibberish that’s likely to go over their head. 

@@ -195,8 +195,8 @@ One question we’re often tasked with at Greenpeace is understanding which issu
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>Most specialized</th>
       <th>Most generalized</th>
+      <th>Most specialized</th>
     </tr>
   </thead>
   <tbody>

@@ -81,7 +81,7 @@ If there is one thing Greenpeace knows it's that the way climate change is invok
  
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8156209"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
- <center> **Figure 2:** 30 topics and the top 20 words in each topic. </center>
+**Figure 2:** 30 topics and the top 20 words in each topic.
        
 We observe a diversity of subtopics like financial, environmental, society, political aspects and many more. **These topics uncover the subtext that is present when climate change quotes are invoked.**
        
@@ -91,7 +91,7 @@ By understanding the issues that are intrinsic to climate change, we will be abl
 
 <center> <img src="assets/plots/topic_evolution.png" alt="topic distribution" width="600"/> </center>
 
-<center> **Figure 3:** *Monthly occurance of topics between 2015 and 2020. The database is missing data for a few months in 2016.* </center>
+**Figure 3:** *Monthly occurance of topics between 2015 and 2020. The database is missing data for a few months in 2016.*
 
        
 Tracking the evolution of climate interest reveals hot-topics and how they evolve. For example, while the Paris Agreement was a hot-topic in November 2015 and 2017 (when Trump pulled out), its interest declined in other months. On the other hand, interest for sustainability and finance tends to persist more consistently. Additionally, the Eurozone and Europe were key issues with climate change in the beginning of 2015. 
@@ -111,7 +111,7 @@ Over the last five years, here are the people that were most quoted in relation 
 _Do the most quoted people talk mostly about climate change?_
 
 <div class="flourish-embed flourish-cards" data-src="visualisation/8165651"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
- <center> **Figure 4:** *Most quoted speakers.* </center>
+**Figure 4:** *Most quoted speakers.*
 
 It seems not! Surprisingly, on average a third of speakers' quotes are about climate change. 
 
@@ -130,7 +130,7 @@ Understanding climate change related quotes requires uncovering both the speaker
 The embedding is capable of effectively clustering news sites into coherent groups. The clusters are both based on topical similarity (fashion, sports, climate, news, and finance) and geographic proximity, which are captured in the KMeans clustering we do on the space. Here we include a small video of the embedding, but the full embedding can be played around with [here]('https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding). 
 
 <a href="https://gifyu.com/image/SSN8w"><img src="https://s10.gifyu.com/images/embedding_video.gif" alt="embedding_video.gif" border="0" /></a>
-<center> **Visualization:** *Watch this video to get a feel for the space and the embedding* </center>
+**Visualization:** *Watch this video to get a feel for the space and the embedding* 
 
 Now Jennifer, at this point you may be wondering, "What the embedding is going on?!" It is better to show than tell, why we used this representation. Thanks to the embedding (without which it would not have been imaginable), we were able to conduct numerous analyes. 
 
@@ -192,7 +192,7 @@ After embedding each of the news sites, we turn to the embedding of concepts. A 
 </div>
 </center>
 
-<center> **Table 1:** Top ten sites by projection on the climate vector. </center>
+<center> <b> Table 1:</b> <i> Top ten sites by projection on the climate vector. </i> </center>
 
 ### Specialized or generalized! How widely discusses are the topics? 
 
@@ -231,7 +231,7 @@ One question we’re often tasked with at Greenpeace is understanding which issu
 </table>
 </center> 
 
-<center> **Table 2:** *Most generalist and specialist climate topics* </center>
+<center> <b> Table 2: </b> <i> Most generalist and specialist climate topics </i> </center>
 
 ### Projecting concept vectors
 Now that we know how generalized and specialized the topics are, we assess which sites care about which issues. When publishing or sharing our developments with specific news sites we need to develop a persona for the audience of that site, to know which climate related concept is important to them. By doing this, we can maximize our efforts to disseminate information the reader will find most beneficial. We want to speak the language of the reader, not in gibberish that’s likely to go over their head. 
@@ -242,7 +242,7 @@ However, one finding that surprised is the role that Trump played in driving cli
 
 {% include plots/news_interests.html %}
 
-<center> **Figure 6:** *Topic interests by news site* </center>
+<center> <b> Figure 6: </b> <i> Topic interests by news site </i> </center>
 
 
 ### Connecting partisan scores to climate change issues

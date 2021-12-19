@@ -1,9 +1,9 @@
 ---
 layout: page
 title: GreenPeace
-subtitle: Faced with the climate emergency, speeches are not enough. 
+subtitle: CONFIDENTIAL: Internal report on news site alignment on climate issues. 
 output: html_document
-cover-img: /assets/green-headlines.png
+cover-img: /assets/greenback.png
 use-site-title: true
 ---
 

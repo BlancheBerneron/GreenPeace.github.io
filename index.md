@@ -61,7 +61,7 @@ Let's start broadly by analysing the evolution of climate change quotes in the l
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8162290"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<center>  **Figure 1:** *Number of quotes about climate change over time.*  </center>
+<center>  <b> Figure 1:</b> <i>Number of quotes about climate change over time.</i>  </center>
 
 We see that the climate change discussion has evolved over the years, featuring several peaks that correspond to key events taking place globally. 
 We aim to track these key events by analyzing events that took place throughout the years. 
@@ -81,7 +81,7 @@ If there is one thing Greenpeace knows it's that the way climate change is invok
  
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8156209"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-**Figure 2:** 30 topics and the top 20 words in each topic.
+<center> <b>Figure 2:</b> <i> 30 topics and the top 20 words in each topic.</i> </center>
        
 We observe a diversity of subtopics like financial, environmental, society, political aspects and many more. **These topics uncover the subtext that is present when climate change quotes are invoked.**
        
@@ -91,7 +91,7 @@ By understanding the issues that are intrinsic to climate change, we will be abl
 
 <center> <img src="assets/plots/topic_evolution.png" alt="topic distribution" width="600"/> </center>
 
-**Figure 3:** *Monthly occurance of topics between 2015 and 2020. The database is missing data for a few months in 2016.*
+<center> <b>Figure 3:</b> <i>Monthly occurance of topics between 2015 and 2020. The database is missing data for a few months in 2016.</i> </center>
 
        
 Tracking the evolution of climate interest reveals hot-topics and how they evolve. For example, while the Paris Agreement was a hot-topic in November 2015 and 2017 (when Trump pulled out), its interest declined in other months. On the other hand, interest for sustainability and finance tends to persist more consistently. Additionally, the Eurozone and Europe were key issues with climate change in the beginning of 2015. 
@@ -111,7 +111,7 @@ Over the last five years, here are the people that were most quoted in relation 
 _Do the most quoted people talk mostly about climate change?_
 
 <div class="flourish-embed flourish-cards" data-src="visualisation/8165651"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
-**Figure 4:** *Most quoted speakers.*
+<center> <b> Figure 4:</b> <i>Most quoted speakers.</i> </center>
 
 It seems not! Surprisingly, on average a third of speakers' quotes are about climate change. 
 
@@ -119,7 +119,7 @@ It seems not! Surprisingly, on average a third of speakers' quotes are about cli
 To answer this question we delve into the backgrounds of the speakers on climate change. Metadata on the speakers was extracted from Wikidata, a large knowledge base containing volunteer-inputed information about entities. We find that climatologists and scientists more generally are more likely to be quoted about climate change, whereas athletes and artists are less likely to speak about climate change.
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/8173554"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<center> **Figure 5:** *Top 5 and bottom 5 occupations among speakers, as a proportion of their quotes that revolve around climate change.* </center>
+<center> <b> Figure 5:</b> <i> Top 5 and bottom 5 occupations among speakers, as a proportion of their quotes that revolve around climate change.</i> </center>
 
 <center> <h1>Who said "embedding"?</h1> </center>
 
@@ -130,7 +130,7 @@ Understanding climate change related quotes requires uncovering both the speaker
 The embedding is capable of effectively clustering news sites into coherent groups. The clusters are both based on topical similarity (fashion, sports, climate, news, and finance) and geographic proximity, which are captured in the KMeans clustering we do on the space. Here we include a small video of the embedding, but the full embedding can be played around with [here]('https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/vminvsky/45b24d87668ee39c42ed431e2a510696/raw/a89a3cb6d46d9baf7ae5c6001ee07613f1c94353/quotebank_embedding). 
 
 <a href="https://gifyu.com/image/SSN8w"><img src="https://s10.gifyu.com/images/embedding_video.gif" alt="embedding_video.gif" border="0" /></a>
-**Visualization:** *Watch this video to get a feel for the space and the embedding* 
+<center> <b> Visualization:</b> <i>Watch this video to get a feel for the space and the embedding.</i>
 
 Now Jennifer, at this point you may be wondering, "What the embedding is going on?!" It is better to show than tell, why we used this representation. Thanks to the embedding (without which it would not have been imaginable), we were able to conduct numerous analyes. 
 
@@ -258,10 +258,9 @@ Duncan Watts’ famous finding that while both the left and the right consume sc
 To understand when the left and the right bring up climate change comments, we are required to analyze the textual level, relying on our favourite LDA. Below we present a series of histograms that present how climate change topics differ along partisan lines. We find that when the right invokes climate change, it is most often brought up in the context of business, trade, or tax. In contrast, the left tends to focus more on development, rising sea levels, and temperature. 
 
        
-<img src="assets/plots/topic_distribution.png" alt="topic distribution" width="700"/>
+<center> <img src="assets/plots/topic_distribution.png" alt="topic distribution" width="700"/> </center>
 
-
-<center> **Figure 8:** *Partisan distribution of topics* </center>
+<center> <b> Figure 8:</b>  <i> Partisan distribution of topics. </i> </center>
 
 
 ### Polarization
@@ -270,7 +269,7 @@ Statically, left leaning newspaper sites tend to speak about climate change more
 
 {% include plots/polarization.html %}
 
-<center> **Figure 9:** *Climate discussion polarization over time.* </center>
+<center> <b>Figure 9:</b> <i> Climate discussion polarization over time.</i> </center>
 
 
 <center> <h1>Conclusion and Implication</h1> </center>

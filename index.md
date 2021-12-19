@@ -28,7 +28,7 @@ It is critical that these scientific *facts* be widely dissimenated and understo
 
 
 ## Goal
-We want to understand how to create a productive awareness campaign about climate change. Using “Quotebank" and Robertson's website political scores, we quantify the climate change landscape in the media over the last five years. This article will serve as our foundation when forming our future climate change awareness campaigns. 
+We want to understand how to create a productive awareness campaign about climate change. Using “Quotebank" \[1\] and Robertson's \[2\] website political scores, we quantify the climate change landscape in the media over the last five years. This article will serve as our foundation when forming our future climate change awareness campaigns. 
 
 
 
@@ -66,16 +66,16 @@ Let's start broadly by analysing the evolution of climate change quotes in the l
 We see that the climate change discussion has evolved over the years, featuring several peaks that correspond to key events taking place globally. 
 We aim to track these key events by analyzing events that took place throughout the years. 
 
-* November 2015 : According to WikiTimeline, "Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks." 
-* June 2017 : According to WikiTimeline, the 1st of June "United States withdrawal from the Paris Agreement"
-* June 2019:  According to WikiTimeline, "The House of Representatives of the Netherlands passes the final bill of the climate agreement. The goal of the accord is to have the level of greenhouse gasses in the atmosphere in 2030 the same as the level of greenhouse gasses in the atmosphere in 1990."
-* September 2019:  According to WikiTimeline, "Millions of young people take to the streets and numerous businesses worldwide go on strike days before the UN Climate Summit, demanding that further action be taken to confront climate change." 
+* November 2015 : "Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks." 
+* June 2017 : The 1st of June "United States withdrawal from the Paris Agreement"
+* June 2019:  "The House of Representatives of the Netherlands passes the final bill of the climate agreement. The goal of the accord is to have the level of greenhouse gasses in the atmosphere in 2030 the same as the level of greenhouse gasses in the atmosphere in 1990."
+* September 2019:  "Millions of young people take to the streets and numerous businesses worldwide go on strike days before the UN Climate Summit, demanding that further action be taken to confront climate change." 
        
       
 ### Main Topics of Climate Change 
  
 {: .box-}
-**Technological aside:** Thanks to LDA we are able to determine different topics within the climate change quote! 
+**Technical aside:** Thanks to LDA we are able to determine different topics within the climate change quote! 
 
 If there is one thing Greenpeace knows it's that the way climate change is invoked can vary widely. Some people may focus on its business implications, others will be more concerned with the environmental consequences. To better grasp this nuance, we run topic modelling to uncover some of the latent concepts that are invoked with climate change. Below are the thirty topics we found, alongside the top 20 words for each topic.  
  
@@ -197,7 +197,7 @@ After embedding each of the news sites, we turn to the embedding of concepts. A 
 
 ### Specialized or generalized! How widely discusses are the topics? 
 
-One question we’re often tasked with at Greenpeace is understanding which issues pertaining to climate change need our attention. Do we find a very specialized issue that will win the hearts of a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to **understand which issues are generally discussed, and which issues are highly specialized**. To do this, we find the average cosine similarity between the center of mass for each topic in our embedding, and the sites which talk about that topic. A topic is widely shared if it is invoked in a wide range of communities, and it is locally shared if it occurs in a very specific area of the embedding.  
+One question we’re often tasked with at Greenpeace is understanding which issues pertaining to climate change need our attention. Do we find a very specialized issue that will win the hearts of a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to **understand which issues are generally discussed, and which issues are highly specialized**. To do this, we find the average cosine similarity between the center of mass for each topic in our embedding, and the sites which talk about that topic. This idea was taken from the work of Waller and Anderson \[4\]. A topic is widely shared if it is invoked in a wide range of communities, and it is locally shared if it occurs in a very specific area of the embedding.  
        
        
 <center> <table border="1" class="dataframe">
@@ -295,13 +295,14 @@ To reiterate, here are our core findings:
 
 Special thanks to the past work of Rachel Kim, Isaac Waller, and Ashton Anderson for forming some of our research. Below we include key papers used in analysis. 
 
-[1] Hamilton, W. L., Leskovec, J., & Jurafsky, D. (2016). Diachronic word embeddings reveal statistical laws of semantic change. arXiv preprint arXiv:1605.09096.
+[1] Vaucher, T., Spitz, A., Catasta, M., & West, R. (2021, March). Quotebank: A Corpus of Quotations from a Decade of News. In Proceedings of the 14th ACM International Conference on Web Search and Data Mining (pp. 328-336).
 
-[2] Waller, I., & Anderson, A. (2021). Quantifying social organization and political polarization in online platforms. Nature, 600(7888), 264-268.
+[2] Robertson, R. E., Jiang, S., Joseph, K., Friedland, L., Lazer, D., & Wilson, C. (2018). Auditing partisan audience bias within google search. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 1-22.
 
-[3] Veselovsky, V., Waller, I., & Anderson, A. (2021, May). Imagine All the People: Characterizing Social Music Sharing on Reddit. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 15, pp. 739-750).
+[3] Hamilton, W. L., Leskovec, J., & Jurafsky, D. (2016). Diachronic word embeddings reveal statistical laws of semantic change. arXiv preprint arXiv:1605.09096.
 
-[4] Waller, I., & Anderson, A. (2019, May). Generalists and specialists: Using community embeddings to quantify activity diversity in online platforms. In The World Wide Web Conference (pp. 1954-1964).
+[4] Waller, I., & Anderson, A. (2021). Quantifying social organization and political polarization in online platforms. Nature, 600(7888), 264-268.
 
-[5] Robertson, R. E., Jiang, S., Joseph, K., Friedland, L., Lazer, D., & Wilson, C. (2018). Auditing partisan audience bias within google search. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 1-22.
+[5] Waller, I., & Anderson, A. (2019, May). Generalists and specialists: Using community embeddings to quantify activity diversity in online platforms. In The World Wide Web Conference (pp. 1954-1964).
+
       * 

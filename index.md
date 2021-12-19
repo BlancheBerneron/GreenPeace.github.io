@@ -138,13 +138,11 @@ Now Jennifer, at this point you may be wondering, "What the embedding is going o
 #### Developing climate topic vectors
 After embedding each of the news sites, we turn to the embedding of concepts. A concept embedding is an attempt to vectorize linguistic concepts in the speaker space. The concepts we aimed to embed were climate change, and various climate change subtopics found from LDA. Each concept is calculated as the weighted average of the communities that share the concept related quote. Below we include the ten sites that projected highest onto the climate change vector. 
 
-<center>
-<div align="center" style="text-align:center">
-<table border="1" class="dataframe">
+<center> <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>domain</th>
-      <th>climate_projection</th>
+      <th>Projection score</th>
     </tr>
   </thead>
   <tbody>
@@ -190,7 +188,6 @@ After embedding each of the news sites, we turn to the embedding of concepts. A 
     </tr>
   </tbody>
 </table>
-</div>
 </center>
 
 <center> <b> Table 1:</b> <i> Top ten sites by projection on the climate vector. </i> </center>

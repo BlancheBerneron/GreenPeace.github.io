@@ -265,8 +265,6 @@ Statically, left leaning newspaper sites tend to speak about climate change more
 
 
 <center> <h1>Conclusion and Implication</h1> </center>
-
-{: .box-note}
        
 In this report we presented our analysis of climate change in the media. We find that climate change discussion has been remained fairly static over the last five years, seeing a minor rise in the end of 2019 into 2020. Key events like the Paris Agreement and Trump’s language drive public discussion around the topic, and the frequency of quotes increases dramatically. We find that there is a clear divide between who speaks about climate change. While in aggregate, this is dominated by similar top speakers to the overall Quotebank dataset, we find that the largest proportion on speakers on climate change tend to be scientsits of some sort. 
 

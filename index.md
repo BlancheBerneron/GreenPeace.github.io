@@ -89,7 +89,7 @@ By understanding the issues that are intrinsic to climate change, we will be abl
        
 ### Evolution of topics over time
 
-<img src="assets/plots/topic_evolution.png" alt="topic distribution" width="600"/>
+<center> <img src="assets/plots/topic_evolution.png" alt="topic distribution" width="600"/> </center>
 
 **Figure 3:** *Monthly occurance of topics between 2015 and 2020. The database is missing data for a few months in 2016.*
 
@@ -136,6 +136,7 @@ Now Jennifer, at this point you may be wondering, "What the embedding is going o
 #### Developing climate topic vectors
 After embedding each of the news sites, we turn to the embedding of concepts. A concept embedding is an attempt to vectorize linguistic concepts in the speaker space. The concepts we aimed to embed were climate change, and various climate change subtopics found from LDA. Each concept is calculated as the weighted average of the communities that share the concept related quote. Below we include the ten sites that projected highest onto the climate change vector. 
 
+<center>
 <div align="center" style="text-align:center">
 <table border="1" class="dataframe">
   <thead>
@@ -188,6 +189,7 @@ After embedding each of the news sites, we turn to the embedding of concepts. A 
   </tbody>
 </table>
 </div>
+</center>
 **Table 1:** Top ten sites by projection on the climate vector. . 
 
 ### Specialized or generalized! How widely discusses are the topics? 
@@ -195,7 +197,7 @@ After embedding each of the news sites, we turn to the embedding of concepts. A 
 One question we’re often tasked with at Greenpeace is understanding which issues pertaining to climate change need our attention. Do we find a very specialized issue that will win the hearts of a specific audience? Or should we try to be more general to rally larger support? Before we can even do this, however, we are required to **understand which issues are generally discussed, and which issues are highly specialized**. To do this, we find the average cosine similarity between the center of mass for each topic in our embedding, and the sites which talk about that topic. A topic is widely shared if it is invoked in a wide range of communities, and it is locally shared if it occurs in a very specific area of the embedding.  
        
        
-<table border="1" class="dataframe">
+<center> <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>Most generalized</th>
@@ -225,6 +227,7 @@ One question we’re often tasked with at Greenpeace is understanding which issu
     </tr>
   </tbody>
 </table>
+</center> 
 
 **Table 2:** *Most generalist and specialist climate topics*
 
@@ -284,6 +287,9 @@ To reiterate, here are our core findings:
       * Newspaper alignment with various issues.
       * Partisan leanings of climate issues.
       * Polarization of climate.
+
+
+<center> <h1>Acknowledgements</h1> </center>
 
 Special thanks to the past work of Rachel Kim, Isaac Waller, and Ashton Anderson for forming some of our research. Below we include key papers used in analysis. 
 

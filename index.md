@@ -268,6 +268,30 @@ Statically, left leaning newspaper sites tend to speak about climate change more
 
 {: .box-note}
        
-In this report we presented our analysis of climate change in the media. We find that climate change discussion has been remained fairly static over the last five years, seeing a minor rise in the end of 2019 into 2020. Key events like the Paris Agreement and Trump’s language drive public discussion around the topic, and the frequency of quotes increases dramatically. The top 100 climate speakers tend to be politicians, writers, and lawyers. 
+In this report we presented our analysis of climate change in the media. We find that climate change discussion has been remained fairly static over the last five years, seeing a minor rise in the end of 2019 into 2020. Key events like the Paris Agreement and Trump’s language drive public discussion around the topic, and the frequency of quotes increases dramatically. We find that there is a clear divide between who speaks about climate change. While in aggregate, this is dominated by similar top speakers to the overall Quotebank dataset, we find that the largest proportion on speakers on climate change tend to be scientsits of some sort. 
 
 Finally, we developed an embedding technique to deepen our understanding of climate change in the news. This embedding technique provided us a new lens for studying climate change in the news, where each site was represented as a point in a high-dimensional vector space with two sites close together if they share a lot of the same speakers. This embedding was used to augment our understanding of the topics that were discussed and study how sites formed distinct clusters.
+
+To reiterate, here are our core findings:
+* Climate change discussion has remained fairly static over the last five years, seeing temporary spikes around key climate conferences, but then a return to the norm. Since 2019, however, we noticed in uptick in the climate conversation. 
+* Track how salient topics evolved over time. 
+* Climate change discussion is dominated by politicians. However, the largest portion of quotes about climate change comes from various scientists.
+* We then present a few findings using embeddings.
+      * Climate similar news sites
+      * Most general and specialist climate issues. 
+      * Newspaper alignment with various issues.
+      * Partisan leanings of climate issues.
+      * Polarization of climate.
+
+Special thanks to the past work of Rachel Kim, Isaac Waller, and Ashton Anderson for forming some of our research. Below we include key papers used in analysis. 
+
+[1] Hamilton, W. L., Leskovec, J., & Jurafsky, D. (2016). Diachronic word embeddings reveal statistical laws of semantic change. arXiv preprint arXiv:1605.09096.
+
+[2] Waller, I., & Anderson, A. (2021). Quantifying social organization and political polarization in online platforms. Nature, 600(7888), 264-268.
+
+[3] Veselovsky, V., Waller, I., & Anderson, A. (2021, May). Imagine All the People: Characterizing Social Music Sharing on Reddit. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 15, pp. 739-750).
+
+[4] Waller, I., & Anderson, A. (2019, May). Generalists and specialists: Using community embeddings to quantify activity diversity in online platforms. In The World Wide Web Conference (pp. 1954-1964).
+
+[5] Robertson, R. E., Jiang, S., Joseph, K., Friedland, L., Lazer, D., & Wilson, C. (2018). Auditing partisan audience bias within google search. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 1-22.
+      * 

@@ -304,5 +304,3 @@ Special thanks to the past work of Rachel Kim, Isaac Waller, and Ashton Anderson
 [4] Waller, I., & Anderson, A. (2021). Quantifying social organization and political polarization in online platforms. Nature, 600(7888), 264-268.
 
 [5] Waller, I., & Anderson, A. (2019, May). Generalists and specialists: Using community embeddings to quantify activity diversity in online platforms. In The World Wide Web Conference (pp. 1954-1964).
-
-      * 

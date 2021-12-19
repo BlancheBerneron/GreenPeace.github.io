@@ -13,6 +13,10 @@ use-site-title: true
 
 *Attached you will find our final report.*
 
+*Sincerely your data scienstist team,*
+
+*BSBV*
+
 ## Motivation
 >“Global warming is likely to be the greatest threat of the 21st century.” 
 

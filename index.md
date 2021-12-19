@@ -3,7 +3,7 @@ layout: page
 title: GreenPeace
 subtitle: "CONFIDENTIAL: Internal report on news site alignment on climate issues."
 output: html_document
-cover-img: /assets/greenback.png
+cover-img: /assets/header.png
 use-site-title: true
 ---
 

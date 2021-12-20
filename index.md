@@ -21,7 +21,7 @@ use-site-title: true
 >“Global warming is likely to be the greatest threat of the 21st century.” 
 
 
-As you all know, climate change refers to long-term shifts in temperatures and weather patterns. These shifts can be natural, such as through variations in the solar cycle. 
+Climate change refers to long-term shifts in temperatures and weather patterns. These shifts can be natural, such as through variations in the solar cycle. 
 Nevertheless, since the 1800s, human activities have been the [main driver of climate change](https://www.ipcc.ch/site/assets/uploads/sites/2/2018/12/ST1.5_OCE_LR.pdf), more precisely in global warming. Indeed, in the last decades we observe a general increase in average temperatures of the Earth, which modifies the weather balances and ecosystems. At the pace of current CO2 emissions, scientists expect an increase of between 1.5° and 5.3°C in average temperature by 2100. If no action is taken, it will have harmful consequences to humanity and the biosphere. 
 
 It is critical that these scientific *facts* be widely dissimenated and understood by the general population. This will empower the public to take the necessary steps to curb climate change and reduce their carbon footprint. This topic is hugely relevant today and for future generaitons, and it is critical that we understand how the media discusses climate change to form our campaigns and future research efforts. 
@@ -248,7 +248,7 @@ However, one finding that surprised is the role that Trump played in driving cli
 To begin, we quantify the difference between the climate change discussion and all quotes more broadly. This will shine a light on the context in which climate change quotes occur. We find that climate change related quotes are more likely to occur in newspapers on the left than the right, and that the far right also has a propensity of bringing up climate change. 
        
 <img src="assets/plots/difference_plot.png" alt="topic distribution" width="700"/>
-<center> **Figure 7:** *How climate quotes differ from all quotes on the partisan axis. Lower means further to the left politically. Higher means further to the right politcally. As we can see, climate quotes take place more on the left than the right.* </center>
+<center> <b>Figure 7:</b> <i>How climate quotes differ from all quotes on the partisan axis. Lower means further to the left politically. Higher means further to the right politcally. As we can see, climate quotes take place more on the left than the right.</i> </center>
  
       
 Duncan Watts’ famous finding that while both the left and the right consume science, the science they consume differs, raises an important question in our analysis. While both the left and the right may discuss climate change (the left invokes it more), does the type of conversation about climate change differ between the groups? If so, understanding this dynamic will enable us to better target the individual news sites and/or speak the language of the audience. 

@@ -281,11 +281,11 @@ To reiterate, here are our core findings:
 * Track how salient topics evolved over time. 
 * Climate change discussion is dominated by politicians. However, the largest portion of quotes about climate change comes from various scientists.
 * We then present a few findings using embeddings.
-      * Climate similar news sites
-      * Most general and specialist climate issues. 
-      * Newspaper alignment with various issues.
-      * Partisan leanings of climate issues.
-      * Polarization of climate.
+    * Climate similar news sites
+    * Most general and specialist climate issues. 
+    * Newspaper alignment with various issues.
+    * Partisan leanings of climate issues.
+    * Polarization of climate.
 
 
 <center> <h1>Acknowledgements</h1> </center>

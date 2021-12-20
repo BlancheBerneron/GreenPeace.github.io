@@ -37,7 +37,7 @@ Throughout this article we will answer the following questions:
 * What were the topics and events that triggered conversation about climate change?
 * Who are the main personalities driving the climate change discussion?
 * Which news sites focus most on climate change?
-       * What issues do they focus on?
+     * What issues do they focus on?
 * How are the issues politicized?
 * Is climate change getting more polarized? 
        
